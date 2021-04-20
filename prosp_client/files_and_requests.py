@@ -2,7 +2,6 @@ from os import environ
 import urllib.request
 
 
-
 # Essa classe recebe o paramentro para pesquisa e forma o link principal
 class TextSearch:
     
@@ -39,7 +38,7 @@ class TextSearch:
 class PlaceIdsDetailsList:
 
     def __init__(self,place_ids_list):
-        self.__place_ids_list = place_ids_list
+        self.__place_ids_lists = place_ids_list
         self.base_link = 'https://maps.googleapis.com/maps/api/place/details/json?place_id='
         self.params = '&fields=name,formatted_phone_number,formatted_address,website'
         self.key_link_part = '&key='
@@ -52,9 +51,10 @@ class PlaceIdsDetailsList:
 
         url_place_ids_list = list()
 
-        for url in self.__place_ids_list:
-            url_place_id = self.base_link + url + self.params + self.key_link_part + self.__key        
-            url_place_ids_list.append(url_place_id)
+        for ids_list in self.__place_ids_lists:
+            for place_id in ids_list:
+                url_place_id = self.base_link + place_id + self.params + self.key_link_part + self.__key        
+                url_place_ids_list.append(url_place_id)
 
         return url_place_ids_list
 
