@@ -1,148 +1,2865 @@
 [
   {
     "html_attributions": [],
+    "next_page_token": "ATtYBwKQrfmBmdumsxPR-1cPmaFVPswgXNzvgZEWeZfSXQtbB-2D2pU_wRvuKhlXiIOHROgcKSYAv2s8P47cSCrZz0iw3OChbZLv9bwZN_ElCkvJgAdrw3iwHCDDN7XRF4gLoVqmul-5-n0sVQfA9cHPQrDjxDuK33z18uusNVTr18jqgdOEU5xcbjV0a-h_RtTHSBgWwc3pW2m9WZz2XQcKTe9FdId05HBeJvsgl5fsTqlJymHuovkakcFe4pDNJNMH0Kgp_nRJ3_6Gy0h0DYu6az7p2tVFlRD-3IYzEUGcfr5yxUiFFBvLqPHb98KAKo7LFDgnM3TETbyfoPrgAZh7qedVzFasxk79MXROjjRvlrQ0Qe9DjjfUQ47cTSlPfekH4Sdf5IqeSsNkBcdkvJUkAA",
     "results": [
       {
         "business_status": "OPERATIONAL",
-        "formatted_address": "Rua Quinze de novembro, 1200 - Suc 13-14-15 - Centro, Indaiatuba - SP, 13330-070, Brazil",
+        "formatted_address": "R. Albina Brizola Ulistka, 685 - Jardim Remulo Zoppi, Indaiatuba - SP, 13345-330, Brazil",
         "geometry": {
           "location": {
-            "lat": -23.083612,
-            "lng": -47.2130661
+            "lat": -23.1028923,
+            "lng": -47.2210796
           },
           "viewport": {
             "northeast": {
-              "lat": -23.08200757010728,
-              "lng": -47.21183137010727
+              "lat": -23.10155247010728,
+              "lng": -47.21971082010728
             },
             "southwest": {
-              "lat": -23.08470722989272,
-              "lng": -47.21453102989272
+              "lat": -23.10425212989272,
+              "lng": -47.22241047989272
             }
           }
         },
         "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-        "name": "O Mineiro",
-        "photos": [
-          {
-            "height": 4128,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/112716218052121642956\">Rodrigo Otäguro</a>"
-            ],
-            "photo_reference": "ATtYBwIpe5-LxZQN_vayBwT8HbT8YO-M65tmnJmaLZEKlY8cU05WhqwKS1u1zTv-SSjaei8De8qDNAi1UFxf4dPZAXAsIlc4UaC0Nu3WF07_wo-hOpSqvRki5gDc1iXYHwvJ2sqggMr9u_oJ951X46dDrYYTjbuRI0owXEDYoGcapYqd7FYR",
-            "width": 2322
-          }
-        ],
-        "place_id": "ChIJDc8Ilqe0yJQRfBwnicqhAEg",
-        "plus_code": {
-          "compound_code": "WQ8P+HQ Centro, Indaiatuba - State of São Paulo",
-          "global_code": "588JWQ8P+HQ"
-        },
-        "rating": 4.4,
-        "reference": "ChIJDc8Ilqe0yJQRfBwnicqhAEg",
-        "types": [
-          "restaurant",
-          "food",
-          "point_of_interest",
-          "establishment"
-        ],
-        "user_ratings_total": 558
-      },
-      {
-        "business_status": "OPERATIONAL",
-        "formatted_address": "Av. Ário Barnabé, 726 - Jardim Morada do Sol, Indaiatuba - SP, 13346-400, Brazil",
-        "geometry": {
-          "location": {
-            "lat": -23.117936,
-            "lng": -47.231339
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -23.11666297010727,
-              "lng": -47.23001527010727
-            },
-            "southwest": {
-              "lat": -23.11936262989272,
-              "lng": -47.23271492989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-        "name": "Restaurante Prosa Mineira Indaiatuba",
-        "photos": [
-          {
-            "height": 1840,
-            "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/109543902086823519577\">Alisson silva</a>"
-            ],
-            "photo_reference": "ATtYBwKPAYuClANNHs3Ih0laPd0_Oq0f1iPDs62Qmu7PuISbvpeQEU5IZcF9srjPR8iaXZqMeoiS5hl7nGclC0baNnhzMkq47YiXtaZ9S6Tm4aMSoQTBcEXTo1BpnFxBm_sCAiFyKknUOzWLiy-qc8zlDvuTEcyJcVPEbB6GBUGaGCb88yLk",
-            "width": 3264
-          }
-        ],
-        "place_id": "ChIJr7OtrL9Mz5QRK1-Z3XhrIZE",
-        "plus_code": {
-          "compound_code": "VQJ9+RF Jardim Morada do Sol, Indaiatuba - State of São Paulo",
-          "global_code": "588JVQJ9+RF"
-        },
-        "rating": 4.7,
-        "reference": "ChIJr7OtrL9Mz5QRK1-Z3XhrIZE",
-        "types": [
-          "restaurant",
-          "food",
-          "point_of_interest",
-          "establishment"
-        ],
-        "user_ratings_total": 83
-      },
-      {
-        "business_status": "OPERATIONAL",
-        "formatted_address": "Avenida Coronel Antônio Estanislau do Amaral, 140 Itaici, Indaiatuba - SP, 13347-400, Brazil",
-        "geometry": {
-          "location": {
-            "lat": -23.095666,
-            "lng": -47.1879234
-          },
-          "viewport": {
-            "northeast": {
-              "lat": -23.09420772010728,
-              "lng": -47.18643002010727
-            },
-            "southwest": {
-              "lat": -23.09690737989272,
-              "lng": -47.18912967989272
-            }
-          }
-        },
-        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-        "name": "Restaurante Chácara de Minas",
+        "name": "Renan Lanches Indaiatuba",
         "opening_hours": {
           "open_now": false
         },
         "photos": [
           {
-            "height": 1365,
+            "height": 720,
             "html_attributions": [
-              "<a href=\"https://maps.google.com/maps/contrib/113648338526136286467\">HB1 FILMES</a>"
+              "<a href=\"https://maps.google.com/maps/contrib/113082534138954173322\">A Google User</a>"
             ],
-            "photo_reference": "ATtYBwKl5bC1SxZMPd0syP9NKw7KfZHJHih2qbELAuzFzHxwhNx8WegxpsRxzIRTux56QlgxJo5N_pftDdgw3MFX_Cg2JqoEKGyLkPk7MnPyj8cdiX9Ee1TW0j5IfEaEeSpm7Kus7cm-qkGrcl-O2OWon-UggYZg-04VHOsTmNGVdennb-9-",
-            "width": 2048
+            "photo_reference": "ATtYBwKG5b9DJ6s7avELFRfM39jh2Y4TE4Fl28tP0CpiQu9hMPcGbk7PmLPV9ImaZindfkAiagH30SluSMop8I56sS8D7W81pFzUNl7L3fS_3pO40xISc1MHUDvMcB98VaAbLSsZhc7dMXaMzwqsk0ol5Qyn-XKTHOzJLhsb7SsA2OBoGG3N",
+            "width": 1280
           }
         ],
-        "place_id": "ChIJ4eligDBLz5QRpDEDKAQ-xzc",
+        "place_id": "ChIJe9u3l6ZNz5QRmzdXFAzdRjU",
         "plus_code": {
-          "compound_code": "WR36+PR Indaiatuba, State of São Paulo",
-          "global_code": "588JWR36+PR"
+          "compound_code": "VQWH+RH Jardim Remulo Zoppi, Indaiatuba - State of São Paulo",
+          "global_code": "588JVQWH+RH"
         },
-        "price_level": 2,
-        "rating": 4.5,
-        "reference": "ChIJ4eligDBLz5QRpDEDKAQ-xzc",
+        "rating": 3.6,
+        "reference": "ChIJe9u3l6ZNz5QRmzdXFAzdRjU",
         "types": [
           "restaurant",
           "food",
           "point_of_interest",
           "establishment"
         ],
-        "user_ratings_total": 1153
+        "user_ratings_total": 9
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "R. Lídia Stein Batisti, 1541 - Jardim California, Indaiatuba - SP, 13344-360, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.1045192,
+            "lng": -47.2173338
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.10313542010728,
+              "lng": -47.21591832010728
+            },
+            "southwest": {
+              "lat": -23.10583507989272,
+              "lng": -47.21861797989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Skina's Lanches",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3120,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116077909333488986735\">A Google User</a>"
+            ],
+            "photo_reference": "ATtYBwJsvl_tb6vYdS-8yTMcnWfL_rIaWYr1zUi-KxHpSzFMZidQrpvnH_GkHGsgyL_30J_uPgvOoR6_iKtCT_gtIU2A24t6Q1tZtsYwHbbIKA_ebtKayyTYmlkrNufypzgcgW11L2x9dEgUUKmpvfQuy5T1nmrpTzgac06S9P314560ZjHn",
+            "width": 4160
+          }
+        ],
+        "place_id": "ChIJT15n7ahMz5QRn-hNndNA25A",
+        "plus_code": {
+          "compound_code": "VQWM+53 Jardim California, Indaiatuba - State of São Paulo",
+          "global_code": "588JVQWM+53"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJT15n7ahMz5QRn-hNndNA25A",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 216
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "R. Cerqueira César, 1253 - Centro, Indaiatuba - SP, 13330-005, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.089222,
+            "lng": -47.2124483
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.08793542010728,
+              "lng": -47.21113632010727
+            },
+            "southwest": {
+              "lat": -23.09063507989272,
+              "lng": -47.21383597989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Lobão Lanches Indaiatuba",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3120,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116469970022094321719\">A Google User</a>"
+            ],
+            "photo_reference": "ATtYBwJFiZ4FuMozacpMWHkx7Y8cLMEDzLt-LJJvrwHJOq5xU6LRBcODKrVJa2tkmntG_iiuPwk9Vnes1A9Fr1Zh5IvDxunDdsHwDRqnAwIsnVBaeQWw3MfbP8HAnU-9yEtF-g0D0xsPss7GOGGAG5G6eny3P1SPSFSzrbNRTIPuBOxVHKg",
+            "width": 4160
+          }
+        ],
+        "place_id": "ChIJB7xp2am0yJQRXqcUlUprGfk",
+        "plus_code": {
+          "compound_code": "WQ6Q+82 Centro, Indaiatuba - State of São Paulo",
+          "global_code": "588JWQ6Q+82"
+        },
+        "price_level": 1,
+        "rating": 4.6,
+        "reference": "ChIJB7xp2am0yJQRXqcUlUprGfk",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 101
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "R. Alcides Pironhe - Nucleo Hab. Brg. Faria Lima, Indaiatuba - SP, 13345-430, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.103823,
+            "lng": -47.2215071
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.10245807010728,
+              "lng": -47.22018732010728
+            },
+            "southwest": {
+              "lat": -23.10515772989272,
+              "lng": -47.22288697989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "CL lanches indaiatuba",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102247938003155551786\">A Google User</a>"
+            ],
+            "photo_reference": "ATtYBwKRkgwiw8qmTIvOFlJJCAVTe3rhwOB34Kwuf8AVEwwXHpDA5Bbu9-O_rMyuVmDfQVDSdsOg-_UMHvubkd1JHwEtsZpBo8RoKHfuvMlfMiPnwNGUkQTV_kKRhWldIbQUMQQ4K3c6N6Ht4xbYz-5yECoKyXO1t70LxnCkY4qVfATCOnWZ",
+            "width": 774
+          }
+        ],
+        "place_id": "ChIJnWuG1YxNz5QRUTIcwYARiG8",
+        "plus_code": {
+          "compound_code": "VQWH+F9 Nucleo Hab. Brg. Faria Lima, Indaiatuba - State of São Paulo",
+          "global_code": "588JVQWH+F9"
+        },
+        "rating": 0,
+        "reference": "ChIJnWuG1YxNz5QRUTIcwYARiG8",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 0
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Av. Francisco de Paula Leite - Jardim Kioto II, Indaiatuba - SP, 13344-325, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.1036171,
+            "lng": -47.2173296
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.10228502010728,
+              "lng": -47.21592922010728
+            },
+            "southwest": {
+              "lat": -23.10498467989272,
+              "lng": -47.21862887989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Alemão Lanches Box 6 Indaiatuba",
+        "place_id": "ChIJE5rx7j5Nz5QRfRbXFPaJaYU",
+        "plus_code": {
+          "compound_code": "VQWM+H3 Jardim Kioto II, Indaiatuba - State of São Paulo",
+          "global_code": "588JVQWM+H3"
+        },
+        "rating": 5,
+        "reference": "ChIJE5rx7j5Nz5QRfRbXFPaJaYU",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 7
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "R. Albina Brizola Ulistka, 846 - Jardim Bom Principio, Indaiatuba - SP, 13345-330, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.1029813,
+            "lng": -47.2214866
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.10166347010728,
+              "lng": -47.22007677010728
+            },
+            "southwest": {
+              "lat": -23.10436312989272,
+              "lng": -47.22277642989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Bandeira Burger's",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3096,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117778214272339643151\">A Google User</a>"
+            ],
+            "photo_reference": "ATtYBwIENHZxTRC81gsRJBwgrgEL5G-cmClGPCSq2reHnTDhidC95XxxEJA-V3eJmlxWNg5GJKnKslN_wz0RxoW8d1pxKGpp6rDqt36pOEVz_2oJ4XhUY8fWLzgDHaUXabesRqDH_Hl-V9Kz732kUzb_rT3Wgtj9RBIG_iPEjiktB9rSigji",
+            "width": 4128
+          }
+        ],
+        "place_id": "ChIJlccNSwNNz5QRJOixQGc1aNg",
+        "plus_code": {
+          "compound_code": "VQWH+RC Jardim Bom Principio, Indaiatuba - State of São Paulo",
+          "global_code": "588JVQWH+RC"
+        },
+        "rating": 4.5,
+        "reference": "ChIJlccNSwNNz5QRJOixQGc1aNg",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 40
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "R. Silvio Candello, nº532 - antiga 70 - Jardim Morada do Sol, Indaiatuba - SP, 13348-243, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.1275969,
+            "lng": -47.2423432
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.12624527010728,
+              "lng": -47.24099992010728
+            },
+            "southwest": {
+              "lat": -23.12894492989272,
+              "lng": -47.24369957989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Billy Lanches",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 960,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114825947437022331699\">A Google User</a>"
+            ],
+            "photo_reference": "ATtYBwJEoa9Mf0JLv5OOSeHdDBs7Kb94cYYA9D3M8DrqDG6hhPUd4DGKOEKGNyRYTpD-lcc5aSc3mQbw4ek9Vko_l80sr9VpC4aCngOpyZp-jwmGyHO7pXCIqrjC_YgI6Ej5xmLom1OrnvTMRhmIdiDyhr5j8H5cNktIUmhFYd-hUETdakRA",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJm95vSZZMz5QRnBn-pUQnzrk",
+        "plus_code": {
+          "compound_code": "VQC5+X3 Jardim Morada do Sol, Indaiatuba - State of São Paulo",
+          "global_code": "588JVQC5+X3"
+        },
+        "price_level": 1,
+        "rating": 4.7,
+        "reference": "ChIJm95vSZZMz5QRnBn-pUQnzrk",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 63
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "box5 bolevar, Av. Geraldo Hackmann, 209 - Nucleo Hab. Brg. Faria Lima, Indaiatuba - SP, 13345-400, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.1051297,
+            "lng": -47.21808009999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.10387642010728,
+              "lng": -47.21668877010728
+            },
+            "southwest": {
+              "lat": -23.10657607989272,
+              "lng": -47.21938842989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Alemão LANCHES box5 indaiatuba",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3096,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108924635674716394116\">A Google User</a>"
+            ],
+            "photo_reference": "ATtYBwJRc49aFS5l9F44dPfkp-Rp8hkqFkpm_ipUk0a-jYP-hDItm2svG8gZh6EXFPVnItsEEcyHzLvpxlO8LeRdC3QRN_LaQ6tKD6QmTIBvbZ5Urk40Utbzh1qzNFy49CTkmddMthr3l-FpqoCT0s_H3616HOZcylIxODuHUpy2CnvZX-jw",
+            "width": 4128
+          }
+        ],
+        "place_id": "ChIJL84WaFdNz5QR3LBHvUq1y8U",
+        "plus_code": {
+          "compound_code": "VQVJ+WQ Nucleo Hab. Brg. Faria Lima, Indaiatuba - State of São Paulo",
+          "global_code": "588JVQVJ+WQ"
+        },
+        "rating": 4.6,
+        "reference": "ChIJL84WaFdNz5QR3LBHvUq1y8U",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 22
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Praça Prudente de Moraes, Box 07 - Centro, Indaiatuba - SP, 13330-000, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.088247,
+            "lng": -47.2167377
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.08694622010728,
+              "lng": -47.21541617010728
+            },
+            "southwest": {
+              "lat": -23.08964587989272,
+              "lng": -47.21811582989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Vilma lanches praça",
+        "photos": [
+          {
+            "height": 4160,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113596596312874581067\">Marcos Antonio Verona</a>"
+            ],
+            "photo_reference": "ATtYBwLHErL9Cs_CKZhCW9QM5talgRNKOMqmxlPYkImlo08h3yDd25xMBWtKVlLSGIGsPDfYjSoxQr50gGoMbIa4p6S80uhs9Kz5PnvxZtapRTgfcn6JaJ7Ir8U-xXtAW6Y7qlQAK98tXlcpEsKEeBeHQrsj7ZNpXHdgxLH_VpeGtYvqSPqL",
+            "width": 3120
+          }
+        ],
+        "place_id": "ChIJH3yV-pqzyJQR2Eo2--7q13E",
+        "plus_code": {
+          "compound_code": "WQ6M+P8 Centro, Indaiatuba - State of São Paulo",
+          "global_code": "588JWQ6M+P8"
+        },
+        "rating": 4.7,
+        "reference": "ChIJH3yV-pqzyJQR2Eo2--7q13E",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 15
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "R. Dr. Renato Riggio, 515 - Parque das Nacoes, Indaiatuba - SP, 13346-090, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.1167808,
+            "lng": -47.2283614
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.11544572010727,
+              "lng": -47.22695797010728
+            },
+            "southwest": {
+              "lat": -23.11814537989272,
+              "lng": -47.22965762989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Disk Entrega Ki Lanches",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 548,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109979682695978762184\">A Google User</a>"
+            ],
+            "photo_reference": "ATtYBwJ2tPHZsntFOBrg53fZy3vE6U4BNbKQFCHjILA1LFSOiWNKFbymUszei6yvaZFF9W1vHbl3Ir0L3DsMz1M28qdJo20ERiPZHohXBi9eM90VUvsT5IacsIinA44-gnTXi-Tu_WkDxf1kcsudD0wBFpUneaMVNfp1Zq-QtG9oz5Ynpru8",
+            "width": 480
+          }
+        ],
+        "place_id": "ChIJU41Q0L1Mz5QRYKhpvpHpXpg",
+        "plus_code": {
+          "compound_code": "VQMC+7M Parque das Nacoes, Indaiatuba - State of São Paulo",
+          "global_code": "588JVQMC+7M"
+        },
+        "rating": 3.5,
+        "reference": "ChIJU41Q0L1Mz5QRYKhpvpHpXpg",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 14
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Praça Prudente de Moraes, s/n - Box 8 - Centro, Indaiatuba - SP, 13330-260, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.0879205,
+            "lng": -47.2164551
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.08664857010728,
+              "lng": -47.21494022010727
+            },
+            "southwest": {
+              "lat": -23.08934822989272,
+              "lng": -47.21763987989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Madruga Lanches",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106175175679872586086\">Gilvan Dutra Costa</a>"
+            ],
+            "photo_reference": "ATtYBwIujvkhJjgKLXTqDoWkdSit2OevKytG24-l_0XwpA8E7JEoeK_pf55yMkhXhIJNhxfYrRXFYFgnLMevuBZAziui1xlpAyKMYOVHPJo8F8QMIoqjPGTkyodH-ghH3k22q43P3RXuxDNSkKFqgoeMvCTIRDcqIX0RhTlSpcXgZZmRiA9m",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJ-WbeqVezyJQRdugw_Mu0NS8",
+        "plus_code": {
+          "compound_code": "WQ6M+RC Centro, Indaiatuba - State of São Paulo",
+          "global_code": "588JWQ6M+RC"
+        },
+        "price_level": 1,
+        "rating": 4.4,
+        "reference": "ChIJ-WbeqVezyJQRdugw_Mu0NS8",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 251
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "51, Av. Geraldo Hackmann - Nucleo Hab. Brg. Faria Lima, Indaiatuba - SP, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.1053228,
+            "lng": -47.2180658
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.10397297010728,
+              "lng": -47.21671597010727
+            },
+            "southwest": {
+              "lat": -23.10667262989272,
+              "lng": -47.21941562989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Disk Cidão Lanhces",
+        "opening_hours": {
+          "open_now": false
+        },
+        "place_id": "ChIJ39PevKhMz5QR8IIL15nbHlM",
+        "plus_code": {
+          "compound_code": "VQVJ+VQ Nucleo Hab. Brg. Faria Lima, Indaiatuba - State of São Paulo",
+          "global_code": "588JVQVJ+VQ"
+        },
+        "rating": 5,
+        "reference": "ChIJ39PevKhMz5QR8IIL15nbHlM",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "R. Candelária - Centro, Indaiatuba - SP, 13330-180, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.0856571,
+            "lng": -47.2157243
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.08430472010727,
+              "lng": -47.21437312010728
+            },
+            "southwest": {
+              "lat": -23.08700437989272,
+              "lng": -47.21707277989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Mineiro Lanches",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 721,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113772020781487539475\">A Google User</a>"
+            ],
+            "photo_reference": "ATtYBwId1QAxKXOGJmjjuAkuiWkNq-otFDm_GZG3h1sY2dhwphr8rYbvipxXDos9LSLDBqTQHc3JuS4uvuk8_ou5GjfEzxlqbkv1sPxz1QU_0MBnMp01F8MG9HNuv74oizwCVcDNICt8lcsUtoMz2xQ4ireWAOE9KvXagEEN2QyJorpC-zFd",
+            "width": 1280
+          }
+        ],
+        "place_id": "ChIJyZzmI1izyJQR9W4sU2PdaZI",
+        "plus_code": {
+          "compound_code": "WQ7M+PP Indaiatuba, State of São Paulo",
+          "global_code": "588JWQ7M+PP"
+        },
+        "price_level": 2,
+        "rating": 4.8,
+        "reference": "ChIJyZzmI1izyJQR9W4sU2PdaZI",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 418
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Rua Sílvio Talli, 503 - Jardim California, Indaiatuba - SP, 13344-241, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.1045322,
+            "lng": -47.2127474
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.10319417010728,
+              "lng": -47.21145317010728
+            },
+            "southwest": {
+              "lat": -23.10589382989272,
+              "lng": -47.21415282989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Kentinhos Lanches",
+        "place_id": "ChIJ9YNfIVhLz5QRh-513dwMtzQ",
+        "plus_code": {
+          "compound_code": "VQWP+5W Jardim California, Indaiatuba - State of São Paulo",
+          "global_code": "588JVQWP+5W"
+        },
+        "rating": 5,
+        "reference": "ChIJ9YNfIVhLz5QRh-513dwMtzQ",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 4
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Av. Pres. Kennedy, 796 - Cidade Nova I, Indaiatuba - SP, 13334-170, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.0820089,
+            "lng": -47.2068269
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.08059242010728,
+              "lng": -47.20543897010727
+            },
+            "southwest": {
+              "lat": -23.08329207989272,
+              "lng": -47.20813862989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Vall Lanches",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 578,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107167625873622038258\">to</a>"
+            ],
+            "photo_reference": "ATtYBwKuOeA7y33PZPjxpMIF_SewILYHzo4t-Pia2ul6t_EkKqjnqXIFiC4S91x9KKxWCI6e9qF29vc3NqDpamWHUg7Op5d0Ns47dWqJVZwTANXn0DE4jGn0ys6hgqr_T21816JDXgwoGmbW5EMlKjfFx-M7Xhx7VFh1adpaG_loUWRvJYp3",
+            "width": 701
+          }
+        ],
+        "place_id": "ChIJFSsUdaW0yJQRxiGyohmSi00",
+        "plus_code": {
+          "compound_code": "WQ9V+57 Cidade Nova I, Indaiatuba - State of São Paulo",
+          "global_code": "588JWQ9V+57"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJFSsUdaW0yJQRxiGyohmSi00",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1011
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "R. Treze de Maio, Numero 333 - Centro, Indaiatuba - SP, 13330-120, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.0895255,
+            "lng": -47.2136969
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.08819812010728,
+              "lng": -47.21229667010728
+            },
+            "southwest": {
+              "lat": -23.09089777989272,
+              "lng": -47.21499632989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Prata Lanches",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104867069245416348792\">A Google User</a>"
+            ],
+            "photo_reference": "ATtYBwLf8JPiRQuGY7_L7Jk-8vxNTaxTwGJdrZMHGUKMqBNuFIPlQw371tk26Wmc8w-31oflbCg4Gg-y4XCTJZfXvuc9CXTC0YJP5vpNEg7U1moDXDXjhpC85xlO4Yzp1eaY-NjALFPVBMJMADxkGqVrOpNRX6rau_qq0kyQuGEpORRNZPaS",
+            "width": 1920
+          }
+        ],
+        "place_id": "ChIJz1FOmaa0yJQRnruo90BI410",
+        "plus_code": {
+          "compound_code": "WQ6P+5G Centro, Indaiatuba - State of São Paulo",
+          "global_code": "588JWQ6P+5G"
+        },
+        "price_level": 2,
+        "rating": 4.8,
+        "reference": "ChIJz1FOmaa0yJQRnruo90BI410",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 93
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Av. Eng. Fábio Roberto Barnabé, 3862 - Jardim Monte Verde, Indaiatuba - SP, 13349-003, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.1008275,
+            "lng": -47.22954259999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.09945792010728,
+              "lng": -47.22811827010727
+            },
+            "southwest": {
+              "lat": -23.10215757989272,
+              "lng": -47.23081792989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "FAMINTOS SPORT BAR LANCHES",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3120,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101636110108203344843\">A Google User</a>"
+            ],
+            "photo_reference": "ATtYBwLPtcOYAu88daFbpC98zpaa2GNo8XzwYR9SijZulRoEl6QZvjr9b1Zxf8FyKB-oJ0_pPipi-vQhKZHdfjBDYHi_a1vXaLBXf9ZfJaDG78FUrJyKZb22lQNtGHQumSmGe6dBGXxqVT-es_N2GHdp6G24qwhHdeV8AX-9OvdcGDE64mDx",
+            "width": 4160
+          }
+        ],
+        "place_id": "ChIJa_4GzY9Nz5QRsZTrm7cxuKI",
+        "plus_code": {
+          "compound_code": "VQXC+M5 Jardim Monte Verde, Indaiatuba - State of São Paulo",
+          "global_code": "588JVQXC+M5"
+        },
+        "rating": 4.5,
+        "reference": "ChIJa_4GzY9Nz5QRsZTrm7cxuKI",
+        "types": [
+          "meal_takeaway",
+          "bar",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 48
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "R. Vinte e Quatro de Maio, 592 - Centro, Indaiatuba - SP, 13330-060, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.0833835,
+            "lng": -47.2180168
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.08200507010728,
+              "lng": -47.21665037010727
+            },
+            "southwest": {
+              "lat": -23.08470472989272,
+              "lng": -47.21935002989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Jujuba Lanches",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 2138,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103567732087880215850\">Ronaldo Possan</a>"
+            ],
+            "photo_reference": "ATtYBwI9nbyuP-e5j8lE8vfmGBuMvQniyVhYarsvzRSFhf4tUPmW02gK90HJUKumwHjYwIiSk1n8Mx8LoVf6KSXsC79-rdxRtJpQ-kPuBIaEC9MafCdz9LG1y2BwkltdJyq_JOwXQO-RVRe1w0jED6DDgGTTa3XtbYVz_uVZh-rk45MpRq0j",
+            "width": 2139
+          }
+        ],
+        "place_id": "ChIJ6eBDalmzyJQRSPvWVtFyTkk",
+        "plus_code": {
+          "compound_code": "WQ8J+JQ Centro, Indaiatuba - State of São Paulo",
+          "global_code": "588JWQ8J+JQ"
+        },
+        "price_level": 2,
+        "rating": 4.6,
+        "reference": "ChIJ6eBDalmzyJQRSPvWVtFyTkk",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 358
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "R. Antônio Brega, 14 - Jardim Oliveira Camargo, Indaiatuba - SP, 13340-705, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.1130704,
+            "lng": -47.2034491
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.11173697010728,
+              "lng": -47.20212727010728
+            },
+            "southwest": {
+              "lat": -23.11443662989272,
+              "lng": -47.20482692989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Bubu Lanches",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113005464182757507253\">edy jesus</a>"
+            ],
+            "photo_reference": "ATtYBwKUsu2p31d7moqCvZ8YjQSesYRPlyXfnGiXOFtZfe6KrpitqkN4bS4eh_tjxwqcX49NkuiOrlBaNhQ-vTCCKZL_hSJcUY02kjpVNyDa1Q0faMkIWQr_EH52p4KiwxdR90qV7uVc-LikUDhQAKeKRQnyXD6pkDp5FRx7CzECmRd53v7t",
+            "width": 4000
+          }
+        ],
+        "place_id": "ChIJIe--TYhLz5QRsFW9rCuV0OQ",
+        "plus_code": {
+          "compound_code": "VQPW+QJ Jardim Oliveira Camargo, Indaiatuba - State of São Paulo",
+          "global_code": "588JVQPW+QJ"
+        },
+        "price_level": 1,
+        "rating": 4.8,
+        "reference": "ChIJIe--TYhLz5QRsFW9rCuV0OQ",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 193
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Praça Dom Pedro II, 2 - Centro, Indaiatuba - SP, 13330-080, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.0867459,
+            "lng": -47.21462100000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.08545177010727,
+              "lng": -47.21312742010728
+            },
+            "southwest": {
+              "lat": -23.08815142989272,
+              "lng": -47.21582707989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Zilda Lanches",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 592,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100932356802267384259\">A Google User</a>"
+            ],
+            "photo_reference": "ATtYBwJ8oW6RoLgPIjWtvOykqxVp8kJe4YCaw7Gwimxz69tx5kSDVr2YS43aWr0zuV5iQtlvX3JnS-cr4QWRVqTmVmhRZCC_yiRCwbW6QYoIEA38kn7ltT8uNxmGoQz0rLVexntO3c3If6bRi1n5e2TTZYHf6fN5TD7ZR1p31T02thTLKzur",
+            "width": 1054
+          }
+        ],
+        "place_id": "ChIJ240951ezyJQRH-cxDtYOcjY",
+        "plus_code": {
+          "compound_code": "WQ7P+85 Centro, Indaiatuba - State of São Paulo",
+          "global_code": "588JWQ7P+85"
+        },
+        "rating": 4.8,
+        "reference": "ChIJ240951ezyJQRH-cxDtYOcjY",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 35
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "html_attributions": [],
+    "next_page_token": "ATtYBwLJdxYsLHJS9spoBMvFsAT0yXacdtg4GhNsg6xwvyF5EcZJfMxWQI934LnAafCZGEs6twZ97yLhuPD6r2D40k_KRCLz9cSf25nATRrDbY6FH2a91SogkoVUHqbjzA7JX-g4piLrig1CNNiFMv6xEfw8fRcTXwp_BiSqqJzi6w6pMzPB1mAe2kmTBG1Xm78VqxARuHkSyUV_hn2Y9tjKmafPcFf6BQvewdHzZWGSTaO5QXEpPD6W0KiaqDuSsquWwym0-PstTz0AtPP1Ugwg1QhX_s12whif3-S16wuWFu-LZEqNdof5MWtOVDnKMiwSs3VULgynhvuA2WZQVBgB6NEcC3IXxcohj3R7aH_8jpmhnpMa6HLLiO7fUnG6rpPSdaArt_SqJFM8dLmPR8oujk69Xrf2PD9yt5P5F8apcfzZxnSKOK2jXsFdD9XRVfJT4eBZSxQzY1JAeOtI6lxRuC2fvZzI32ZP-2xEhbenlgKe-ztNOfw-sH0G9T3H-_ip94RpRuEjBwnIT5bZbYWlyUHZZGE_Up2-V81BQzsPoISugGGlAsOZBhxZzc3kFYjWSN4irGhV_OEgzA5UKbTsyr0ADj0TnLjLJ883ma2PNJA",
+    "results": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Av. Presidente Kennedy, 614 - Vila Areal, Indaiatuba - SP, 13334-170, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.081317,
+            "lng": -47.2083459
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.07986617010728,
+              "lng": -47.20693997010728
+            },
+            "southwest": {
+              "lat": -23.08256582989273,
+              "lng": -47.20963962989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Tukka's Restaurante, Pizzaria & lanchonete",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108867269755726083638\">Samantha de Souza</a>"
+            ],
+            "photo_reference": "ATtYBwJ00WChrYSdnPYWh4rMtJLJPccGrcZOtkfJgEvNfkcj070rak1KVL3YrRl9Oq5uF-F_P7uKdmMsoZKxdy-q9u29ONIlRggNB3q7RFaOQlMy2nfV46KahIwIi8Y4eefBxLOgqDMgP4dGQP91r5O0BRseBO3xefVSBcbTYY0ni4ZB2U6N",
+            "width": 1920
+          }
+        ],
+        "place_id": "ChIJk9wPy6W0yJQRHhC-a8ClBV0",
+        "plus_code": {
+          "compound_code": "WQ9R+FM Vila Areal, Indaiatuba - State of São Paulo",
+          "global_code": "588JWQ9R+FM"
+        },
+        "rating": 4.3,
+        "reference": "ChIJk9wPy6W0yJQRHhC-a8ClBV0",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 932
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "R. Bernardino de Campos, 293-327 - Centro, Indaiatuba - SP, 13330-260, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.0878997,
+            "lng": -47.2178255
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.08654852010728,
+              "lng": -47.21647492010728
+            },
+            "southwest": {
+              "lat": -23.08924817989272,
+              "lng": -47.21917457989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Samuka Lanches Indaiatuba",
+        "place_id": "ChIJkQnKalezyJQRRZqFkIJWack",
+        "plus_code": {
+          "compound_code": "WQ6J+RV Centro, Indaiatuba - State of São Paulo",
+          "global_code": "588JWQ6J+RV"
+        },
+        "price_level": 2,
+        "rating": 4.9,
+        "reference": "ChIJkQnKalezyJQRRZqFkIJWack",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 43
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "R. Alcides Pironhe, 391 - Nucleo Hab. Brg. Faria Lima, Indaiatuba - SP, 13345-430, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.1031981,
+            "lng": -47.2210026
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.10182167010728,
+              "lng": -47.21970407010728
+            },
+            "southwest": {
+              "lat": -23.10452132989272,
+              "lng": -47.22240372989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Jéssica Lanches",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1280,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111074951053940426007\">A Google User</a>"
+            ],
+            "photo_reference": "ATtYBwKVOzV4AOaqgZJyLMgfH7E_YMFHVEBCKHTxZCTdZxqX0nq9KspTAJS306_CjkzGGF2PFWWCAkS6l8-cKJ3VuCC3lXMygULCDTr0rqyC5qRd6FYwtUKbthgfE_i8WhyMByfxFwAmD7ZlMgXDtW__4ind4md6VxUvkLkXfjGn2j2Sef2e",
+            "width": 640
+          }
+        ],
+        "place_id": "ChIJbaCefaRNz5QR-fY7kby4BYI",
+        "plus_code": {
+          "compound_code": "VQWH+PH Nucleo Hab. Brg. Faria Lima, Indaiatuba - State of São Paulo",
+          "global_code": "588JVQWH+PH"
+        },
+        "rating": 5,
+        "reference": "ChIJbaCefaRNz5QR-fY7kby4BYI",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 5
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "R. Joana de Bernardin Brizolla, 627 - Jardim California, Indaiatuba - SP, 13334-260, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.1061113,
+            "lng": -47.2130156
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.10477987010728,
+              "lng": -47.21171872010728
+            },
+            "southwest": {
+              "lat": -23.10747952989272,
+              "lng": -47.21441837989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Cantinho do Du lanches",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 540,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110758824935124033382\">Eduardo Costa Machado</a>"
+            ],
+            "photo_reference": "ATtYBwIDh8G_p3DJTZkTQLvQBIUwuxU7ppxbtsK9xXtV2kbpTjkUw5i036Px8BW5MdqnGRLWJNiquGVb6cKW7F7DSDWBSu6vF9Nnm351kQEMtTv5-dXYsXQm4MvIRGergGi5mtPr2xHqmUQb4U6ILM1Z7d1Soo1H86r8coEwesMnvnCfbxlx",
+            "width": 720
+          }
+        ],
+        "place_id": "ChIJR1qr3HhLz5QR7a10ktQFM-E",
+        "plus_code": {
+          "compound_code": "VQVP+HQ Jardim California, Indaiatuba - State of São Paulo",
+          "global_code": "588JVQVP+HQ"
+        },
+        "rating": 5,
+        "reference": "ChIJR1qr3HhLz5QR7a10ktQFM-E",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "R. Yoriko Gonçalves, 298 - Jardim Oliveira Camargo, Indaiatuba - SP, 13340-700, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.1094198,
+            "lng": -47.2036899
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.10801037010728,
+              "lng": -47.20233007010729
+            },
+            "southwest": {
+              "lat": -23.11071002989272,
+              "lng": -47.20502972989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Thiba's Lanches",
+        "photos": [
+          {
+            "height": 960,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110966845887250311238\">A Google User</a>"
+            ],
+            "photo_reference": "ATtYBwLo5t5h0RtYT8PTMAz0GRM8S1l6OoMvibuE2o2wr5asSCgotzZYq9Yjsl_iYD7_J3BsYtNkpeR8GxhUz0Kz09m0PRkH53fEAgZINZtfEtmlpFLr4MtcluKAyKyeWU-zihNupQBW2n3H95JIHFHKaUlvciiD6KpWHqnVDkzjuxhvTMts",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJ44YCx0JLz5QRRxKxPPNWH8w",
+        "plus_code": {
+          "compound_code": "VQRW+6G Jardim Oliveira Camargo, Indaiatuba - State of São Paulo",
+          "global_code": "588JVQRW+6G"
+        },
+        "rating": 4.8,
+        "reference": "ChIJ44YCx0JLz5QRRxKxPPNWH8w",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 11
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Rua joao walsh costa 1890 Dr raul david do vale esquina - Jardim Morada do Sol, Indaiatuba - SP, 13348-430, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.1185817,
+            "lng": -47.2434433
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.11722657010728,
+              "lng": -47.24211307010728
+            },
+            "southwest": {
+              "lat": -23.11992622989272,
+              "lng": -47.24481272989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Palominha lanches",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101878211139242610050\">A Google User</a>"
+            ],
+            "photo_reference": "ATtYBwI_u7Bx4gNIUeWghpIj7z4fSHQH8hOaLA9JHChNegFUYiMcP-T0YKO0YxzmacX3Wwjfpim2ZQXk9M4xZNydLYOykjITuN4UXyfF7aIdgYO4FYw-4pOS_NfUbUEtrYgJ9HRBSwWUCHR54WyxnPQMQbYlRkp5c71ucw_IEX44KLTi6RwG",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJM7OcYWdNz5QROd_c9vK0C_w",
+        "plus_code": {
+          "compound_code": "VQJ4+HJ Jardim Morada do Sol, Indaiatuba - State of São Paulo",
+          "global_code": "588JVQJ4+HJ"
+        },
+        "rating": 4.4,
+        "reference": "ChIJM7OcYWdNz5QROd_c9vK0C_w",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 101
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "R. João Wolf Filho, 259 - Parque das Nacoes, Indaiatuba - SP, 13346-030, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.1134336,
+            "lng": -47.2240331
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.11204272010728,
+              "lng": -47.22267117010728
+            },
+            "southwest": {
+              "lat": -23.11474237989272,
+              "lng": -47.22537082989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "MANOLLO'S BURGER",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 960,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109517582856967271193\">A Google User</a>"
+            ],
+            "photo_reference": "ATtYBwLtv-FtUhEFEvAaQ-hj5jaBdnZ8mtMdh8d9DrKNgUdDzeSKiWmBN-p_HC_pu4pUoneZ9Fatobkg6YljN0ETrp2Mk96HnYHnFG2Q1TQPUsYKvV6iARjNfrB_FFYMT_ZQlg49SvpQG50cdrszbWpQCYywQEeI_9OyhiPW0N-ukABKJWgo",
+            "width": 1280
+          }
+        ],
+        "place_id": "ChIJAxhJTaNMz5QR2FI2mZcnGxI",
+        "plus_code": {
+          "compound_code": "VQPG+J9 Parque das Nacoes, Indaiatuba - State of São Paulo",
+          "global_code": "588JVQPG+J9"
+        },
+        "price_level": 1,
+        "rating": 4.7,
+        "reference": "ChIJAxhJTaNMz5QR2FI2mZcnGxI",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 270
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "R. Voluntário João dos Santos, 1681 - Vila Todos Os Santos, Indaiatuba - SP, 13330-230, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.0814129,
+            "lng": -47.21670899999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.08006622010728,
+              "lng": -47.21535257010727
+            },
+            "southwest": {
+              "lat": -23.08276587989272,
+              "lng": -47.21805222989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Planet King- Super Lanches e Porções - Lanche Indaiatuba - Lanche Gigante",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108869471524668340839\">A Google User</a>"
+            ],
+            "photo_reference": "ATtYBwIvTUf0XcKpecx2-wEG6whpGBO7yY10PqxJ0L0PXx_7LZDfu1Y0CcvV7ybXFqRfl_Hqz1YL6i85L24qJx0m-9r6CUiCD5sghtValyJuh-uo_5Kr6VdvGohG0i3PJFlHDOJUuqu2hiCD3YEpqLY52SL8Xa5rzkmGsilCS7J0yZtOTPKG",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJx3N51V6zyJQRxHPdo6A1Ooo",
+        "plus_code": {
+          "compound_code": "WQ9M+C8 Vila Todos Os Santos, Indaiatuba - State of São Paulo",
+          "global_code": "588JWQ9M+C8"
+        },
+        "rating": 4.8,
+        "reference": "ChIJx3N51V6zyJQRxHPdo6A1Ooo",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 16
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "R. Onório Novachi, 715 - Jardim Hubert, Indaiatuba - SP, 13345-806, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.1090467,
+            "lng": -47.2335699
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.10767947010729,
+              "lng": -47.23227867010728
+            },
+            "southwest": {
+              "lat": -23.11037912989273,
+              "lng": -47.23497832989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Mek Mais Lanches - Disk Entrega",
+        "opening_hours": {
+          "open_now": false
+        },
+        "place_id": "ChIJ3WGYfPJNz5QRRTaiZbYiotw",
+        "plus_code": {
+          "compound_code": "VQR8+9H Jardim Hubert, Indaiatuba - State of São Paulo",
+          "global_code": "588JVQR8+9H"
+        },
+        "rating": 4.4,
+        "reference": "ChIJ3WGYfPJNz5QRRTaiZbYiotw",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 35
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Av. Ário Barnabé, 1552 - Jardim Morada do Sol, Indaiatuba - SP, 13348-503, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.1158499,
+            "lng": -47.2392447
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.11457052010728,
+              "lng": -47.23791637010728
+            },
+            "southwest": {
+              "lat": -23.11727017989272,
+              "lng": -47.24061602989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Lambari Cascudo Lanches e Cia",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 528,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106331471955309433941\">M De Oliveira Transportes</a>"
+            ],
+            "photo_reference": "ATtYBwJCuc5_gYLEOK3QHI5hsGj1KbOK096KRaKctn1e03a9Xj5gkmxKWyoYzxuRhEgbcxKg40EDNtVxgqUS_KFRfa2AhDM31yxM6WvA3UQt5d61h0QSF5NQ5H_eMe2La2HqeBO-0H2OawWYZuCi2qrGbFaB2iPmpzbjAqXHYZKSJ7LtjE9t",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJuZYmLsRMz5QRLutT2EcxxHU",
+        "plus_code": {
+          "compound_code": "VQM6+M8 Jardim Morada do Sol, Indaiatuba - State of São Paulo",
+          "global_code": "588JVQM6+M8"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJuZYmLsRMz5QRLutT2EcxxHU",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 129
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "R. Silvio Candello, 228 - Jardim Morada do Sol, Indaiatuba - SP, 13348-340, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.1304563,
+            "lng": -47.2431233
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.12908857010727,
+              "lng": -47.24184342010728
+            },
+            "southwest": {
+              "lat": -23.13178822989272,
+              "lng": -47.24454307989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Mega lanche",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3072,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101202388822086636822\">A Google User</a>"
+            ],
+            "photo_reference": "ATtYBwI5KdphVvTFBuXiujETyWFZMaweotCmqX2H1T-U3qmyhTLfoh2KIJpbYvPwwg4oZ3esnkl2ZKk2gWrqs5Gc-V3Z4oUbM-B2PVp5l-0XwRVi7jMVMy8Zbf7IJCjD0iQHVMN15kuorc1_hA4_LpZfgir3FJZ4ffSCAHrr74VfLAnkt6d3",
+            "width": 4096
+          }
+        ],
+        "place_id": "ChIJVRbLvv5Nz5QR_UVNxcq3h3o",
+        "plus_code": {
+          "compound_code": "VQ94+RQ Jardim Morada do Sol, Indaiatuba - State of São Paulo",
+          "global_code": "588JVQ94+RQ"
+        },
+        "rating": 4.5,
+        "reference": "ChIJVRbLvv5Nz5QR_UVNxcq3h3o",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 28
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "R. Anhangabaú, 786 - Jardim Paulista I, Indaiatuba - SP, 13349-772, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.1273766,
+            "lng": -47.2516598
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.12604282010728,
+              "lng": -47.25026082010727
+            },
+            "southwest": {
+              "lat": -23.12874247989272,
+              "lng": -47.25296047989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Zico Lanches E Pizzaria",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3096,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113721627540293253733\">A Google User</a>"
+            ],
+            "photo_reference": "ATtYBwL_h3Sgu3ZJiElfL9PdyIAUBG-ON_EqGyXqiEWMzUJD4AU1OsgywTOfLOVDnlDCD93q6edVfSxTsni-ch80VW9z4xGwco0ZQGRHmtaXDwiPVaeoCXSRL__5qy0ajXw7BNiPSLXV5smh9fvLCiy_KmyIW4u8TBLoqHDldbz9I6hgkiTF",
+            "width": 4128
+          }
+        ],
+        "place_id": "ChIJg0QvBcJMz5QR3VGmPeKaVOc",
+        "plus_code": {
+          "compound_code": "VPFX+28 Jardim Paulista I, Indaiatuba - State of São Paulo",
+          "global_code": "588JVPFX+28"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJg0QvBcJMz5QR3VGmPeKaVOc",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 133
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "R. Álvaro dos Santos, 1278 - Jardim Adriana, Indaiatuba - SP, 13345-650, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.1055269,
+            "lng": -47.2233016
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.10417852010728,
+              "lng": -47.22194957010727
+            },
+            "southwest": {
+              "lat": -23.10687817989272,
+              "lng": -47.22464922989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Lanche Do Tita",
+        "photos": [
+          {
+            "height": 1920,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101984833463239168836\">A Google User</a>"
+            ],
+            "photo_reference": "ATtYBwKXzIsS-BTpouiUfo4KRVH_14pHxF9Z97_2IaU_j-FMVkG41RSwDiA1LiT0yz18V5yn5gP3dn30ezM_RHffWIIqMlvFgcD0jmslw4UI2Cuv964wRGoK3hRHn-X3DFXyFUeoVgmwLNGdfj_QdbcXHxzcKNy9shUfFCEzhbLEbI6N5cas",
+            "width": 2560
+          }
+        ],
+        "place_id": "ChIJ17DLza9Mz5QRF_Dbr8NLD_Y",
+        "plus_code": {
+          "compound_code": "VQVG+QM Jardim Adriana, Indaiatuba - State of São Paulo",
+          "global_code": "588JVQVG+QM"
+        },
+        "rating": 4.7,
+        "reference": "ChIJ17DLza9Mz5QRF_Dbr8NLD_Y",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 31
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "R. Emília Lazarini Beccari - Jardim Monte Verde, Indaiatuba - SP, 13348-867, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.1036793,
+            "lng": -47.230277
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.10236482010728,
+              "lng": -47.22894457010727
+            },
+            "southwest": {
+              "lat": -23.10506447989272,
+              "lng": -47.23164422989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Simplizão Lanches",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 269,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105175876314367509988\">A Google User</a>"
+            ],
+            "photo_reference": "ATtYBwLVB5kR9zJ8Prfx35iNkLEbT_8QUP94B7C8C7QDMit1W0T6XvK60v3v_xkjrM3y99Srvm5VdjpD6LpkQgvsSHqbHALhV9pqomjn1sY9_oKik_QHvkAgYhZGDrnvXHlD2z5t3-ZzVxVl_WjYUYam2sQvCxDF__Sq26aC6GI4bm3flMmh",
+            "width": 480
+          }
+        ],
+        "place_id": "ChIJXcAYOL1Nz5QRYQJEJeETSCU",
+        "plus_code": {
+          "compound_code": "VQW9+GV Jardim Monte Verde, Indaiatuba - State of São Paulo",
+          "global_code": "588JVQW9+GV"
+        },
+        "rating": 5,
+        "reference": "ChIJXcAYOL1Nz5QRYQJEJeETSCU",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "R. Profa. Francisca Lucinda Bueno, 541 - Jardim California, Indaiatuba - SP, 13344-400, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.107572,
+            "lng": -47.2180884
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.10616262010727,
+              "lng": -47.21678692010728
+            },
+            "southwest": {
+              "lat": -23.10886227989272,
+              "lng": -47.21948657989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Lanches e Salgados Meninão",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3120,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102477809495692740905\">A Google User</a>"
+            ],
+            "photo_reference": "ATtYBwJpf50crkRgpxKHncwpZ5nTpmOW82rgcLN3R5U1W8m3405fLAxgL9nY9r0uHG4IThisjGFsd9WlAO9yhP5D5G3XI1k-3iuNbPRd67dDupbBbHxxf3a873e0VklELzvK80Fqegkv3jQqQaaoqOiS_o0TZo2MMqPQtSjwPNafU1sBEudn",
+            "width": 4160
+          }
+        ],
+        "place_id": "ChIJFcWh9JJNz5QR1cwNTDzHOmw",
+        "plus_code": {
+          "compound_code": "VQRJ+XQ Jardim California, Indaiatuba - State of São Paulo",
+          "global_code": "588JVQRJ+XQ"
+        },
+        "rating": 4.4,
+        "reference": "ChIJFcWh9JJNz5QR1cwNTDzHOmw",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 5
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "R. Elias Fausto, 453 - Parque Boa Esperanca, Indaiatuba - SP, 13339-280, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.0895861,
+            "lng": -47.2008559
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.08825792010728,
+              "lng": -47.19945997010728
+            },
+            "southwest": {
+              "lat": -23.09095757989272,
+              "lng": -47.20215962989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Lanches Carioca",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3474,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114388292351329689028\">lucenir Maria da silva</a>"
+            ],
+            "photo_reference": "ATtYBwLDUkTLWu2-7hySJjv-1swQtZHPjvBEDzwPrGDoCRFFUnRZ9mHOcsCPfbbcguIFfpb41a7It0qmwGJRmifgBRCvEHDvcByEmzgzRb8NXx8fAkSLY5lfBK6AiCuwuRverpsdFzWpSzLf5TC0D5-x_AxIesO46dlfJCP9sY0yQwhUX26u",
+            "width": 4632
+          }
+        ],
+        "place_id": "ChIJTVbBP7O0yJQR5Qbzw2_wukQ",
+        "plus_code": {
+          "compound_code": "WQ6X+5M Parque Boa Esperanca, Indaiatuba - State of São Paulo",
+          "global_code": "588JWQ6X+5M"
+        },
+        "price_level": 1,
+        "rating": 4.5,
+        "reference": "ChIJTVbBP7O0yJQR5Qbzw2_wukQ",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 175
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "R. Dr. Raul David do Valle, 1226 - Jardim Morada do Sol, Indaiatuba - SP, 13348-360, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.1196546,
+            "lng": -47.2436892
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.11828737010728,
+              "lng": -47.24240382010728
+            },
+            "southwest": {
+              "lat": -23.12098702989272,
+              "lng": -47.24510347989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Marcelão lanches",
+        "opening_hours": {
+          "open_now": false
+        },
+        "place_id": "ChIJ05YUsLJNz5QRnX7CVKFkGVM",
+        "plus_code": {
+          "compound_code": "VQJ4+4G Jardim Morada do Sol, Indaiatuba - State of São Paulo",
+          "global_code": "588JVQJ4+4G"
+        },
+        "rating": 5,
+        "reference": "ChIJ05YUsLJNz5QRnX7CVKFkGVM",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "R. Álvaro dos Santos, 1154 - Jardim Adriana, Indaiatuba - SP, 13345-650, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.104512,
+            "lng": -47.222653
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.10320602010728,
+              "lng": -47.22123222010728
+            },
+            "southwest": {
+              "lat": -23.10590567989272,
+              "lng": -47.22393187989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Dri lanches",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 720,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107028795407081284540\">A Google User</a>"
+            ],
+            "photo_reference": "ATtYBwJWbRasSVLtbVALkcKc-d_9S8wq0-qAZ69cHpkyuwyMnaurpdyEUsd0LVQiqpf4o6epCVRC9Cet87Fsf2aNQAYf0k85gC5FQlDs7UxYycJNAJxQgn3tMRUcTKooeeo48MuKIn14ZOmyBK2pptL9OCzmaBmnFdps-sFl9aCdEbUYoSGt",
+            "width": 720
+          }
+        ],
+        "place_id": "ChIJbVBAQ6tNz5QR3DZGGYirVj4",
+        "plus_code": {
+          "compound_code": "VQWG+5W Jardim Adriana, Indaiatuba - State of São Paulo",
+          "global_code": "588JVQWG+5W"
+        },
+        "rating": 4.8,
+        "reference": "ChIJbVBAQ6tNz5QR3DZGGYirVj4",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 5
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "R. Vinte e Quatro de Maio, 226 - Centro, Indaiatuba - SP, 13330-060, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.0820091,
+            "lng": -47.2211984
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.08056797010727,
+              "lng": -47.21980127010728
+            },
+            "southwest": {
+              "lat": -23.08326762989272,
+              "lng": -47.22250092989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Point Lanches & Porções",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4128,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103323227639294648368\">A Google User</a>"
+            ],
+            "photo_reference": "ATtYBwKQdb1ZmmWVtzsvkuCH8m4Qvhr08y51t0nyIz-Na2vTgMBYdTVIo8fa7wzV7YfwMHhsSaml2C0QsQw1H692i9c1cWDJKFMiMg5WVoEHIaV2s7mEliHwjSPj1ThalUub5wG_nt3rW5j0e6eWKlHp7gPSlUBCfvbDy04jhhbhblKFukFj",
+            "width": 3096
+          }
+        ],
+        "place_id": "ChIJ20v5Ctm1yJQRzYwxblgtbsU",
+        "plus_code": {
+          "compound_code": "WQ9H+5G Centro, Indaiatuba - State of São Paulo",
+          "global_code": "588JWQ9H+5G"
+        },
+        "rating": 4.9,
+        "reference": "ChIJ20v5Ctm1yJQRzYwxblgtbsU",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 7
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Av. Pres. Vargas, 1604 - Vila Castelo Branco, Indaiatuba - SP, 13334-085, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.0857547,
+            "lng": -47.1965478
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.08432327010728,
+              "lng": -47.19521597010728
+            },
+            "southwest": {
+              "lat": -23.08702292989272,
+              "lng": -47.19791562989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Lanchão Indaiatuba",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 925,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117925510835602915014\">LANCHÃO &amp; CIA - INDAIATUBA</a>"
+            ],
+            "photo_reference": "ATtYBwLCa88BhMPvGf40oTidBGBgUxtbhwVTYukuZ161fHSYPVxyKPX_UaoLV-7Svu3i8AJp4z_CqlEKtNiLls62QwrG4HYfjN5Zf7ztPXOK9bBbnpIEVjMCUedyHZ_3nsjL4CqcoZXj7Bha0HS9G3pm8n9YPpWnCSPS-udunTZ88ipEXXU4",
+            "width": 1233
+          }
+        ],
+        "place_id": "ChIJZeWouLW0yJQRUJN09PFMang",
+        "plus_code": {
+          "compound_code": "WR73+M9 Vila Castelo Branco, Indaiatuba - State of São Paulo",
+          "global_code": "588JWR73+M9"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJZeWouLW0yJQRUJN09PFMang",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 929
+      }
+    ],
+    "status": "OK"
+  },
+  {
+    "html_attributions": [],
+    "results": [
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "R. Dr. Raul David do Valle, 1157 - Jardim Morada do Sol, Indaiatuba - SP, 13348-364, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.1193951,
+            "lng": -47.2437694
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.11804207010728,
+              "lng": -47.24243122010728
+            },
+            "southwest": {
+              "lat": -23.12074172989272,
+              "lng": -47.24513087989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "JJ Lanches",
+        "opening_hours": {
+          "open_now": false
+        },
+        "place_id": "ChIJI1gCpWJNz5QRPQ3f84D3vmk",
+        "plus_code": {
+          "compound_code": "VQJ4+6F Jardim Morada do Sol, Indaiatuba - State of São Paulo",
+          "global_code": "588JVQJ4+6F"
+        },
+        "rating": 2.5,
+        "reference": "ChIJI1gCpWJNz5QRPQ3f84D3vmk",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "R. Pedro de Toledo, 09 - Centro, Indaiatuba - SP, 13330-090, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.086671,
+            "lng": -47.2146509
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.08538742010727,
+              "lng": -47.21313002010728
+            },
+            "southwest": {
+              "lat": -23.08808707989272,
+              "lng": -47.21582967989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Irmãos Bacana Lanches",
+        "place_id": "ChIJU5zl5lezyJQRTH5wfY706vc",
+        "plus_code": {
+          "compound_code": "WQ7P+84 Centro, Indaiatuba - State of São Paulo",
+          "global_code": "588JWQ7P+84"
+        },
+        "rating": 4.6,
+        "reference": "ChIJU5zl5lezyJQRTH5wfY706vc",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 38
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "R. Espírito Santo, 211-219 - Cidade Nova II, Indaiatuba - SP, 13334-340, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.0803224,
+            "lng": -47.1981494
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.07902257010728,
+              "lng": -47.19677757010728
+            },
+            "southwest": {
+              "lat": -23.08172222989272,
+              "lng": -47.19947722989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Cidão Lanches",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1836,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111993199328812841090\">A Google User</a>"
+            ],
+            "photo_reference": "ATtYBwJTk_4JLLpF-mdqcBbBwqsqOuSw3zqe8nD3yhphlhPOtPDE0Bzstv2s6hdU3HqpIKQcU1fpVlVNQFuEhhveyfXIM1XFQFEUe4gevH6ZaU7dspF6XnGwnIG7xMZeNx7ebXgkGMF4Mf1G4p6ywej4uXc9NEhxQBHaGr5SoGkv-39nbgdU",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJ-yJzYbe0yJQRvJW6BmdxmVM",
+        "plus_code": {
+          "compound_code": "WR92+VP Cidade Nova II, Indaiatuba - State of São Paulo",
+          "global_code": "588JWR92+VP"
+        },
+        "price_level": 1,
+        "rating": 4.5,
+        "reference": "ChIJ-yJzYbe0yJQRvJW6BmdxmVM",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 374
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "R. Silvio Candello, 1690 - Jardim Morada do Sol, Indaiatuba - SP, 13348-347, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.1186002,
+            "lng": -47.2395751
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.11723612010728,
+              "lng": -47.23828377010729
+            },
+            "southwest": {
+              "lat": -23.11993577989272,
+              "lng": -47.24098342989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Dog´s Lanchonete e Choperia",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 480,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114316199642854349427\">A Google User</a>"
+            ],
+            "photo_reference": "ATtYBwJD65fcDJO7XuCjyrDiu9LDP4X0IwiU0eUjMu4FGR5RO3SXSuW9Fop0JB5cxObzaTun4Rv8OSfLIrQlssMhwe_GrLw55SHPdwazpORp0V2ssidbAr-oCdWzsYMzB5pvJqhvT58_Tsh5FuIyL3wF1tOHBcK2eW7j6HE7_QrhVuF16_w1",
+            "width": 640
+          }
+        ],
+        "place_id": "ChIJbY8z7sNMz5QRNdL8ecnzyiY",
+        "plus_code": {
+          "compound_code": "VQJ6+H5 Jardim Morada do Sol, Indaiatuba - State of São Paulo",
+          "global_code": "588JVQJ6+H5"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJbY8z7sNMz5QRNdL8ecnzyiY",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 90
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Av. Francisco de Paula Leite, 2283 - Jardim Kioto II, Indaiatuba - SP, 13344-430, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.1107889,
+            "lng": -47.21954059999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.10939897010728,
+              "lng": -47.21831832010727
+            },
+            "southwest": {
+              "lat": -23.11209862989272,
+              "lng": -47.22101797989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Reviera Lanches",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4128,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116425780415696601438\">Rodrigo neves</a>"
+            ],
+            "photo_reference": "ATtYBwIazpUbAQrWlpXldVd90gceCpKJE6D1zRf50nczWFj9fCPnDA2_rqoVhMpHRT-U7nhmyx4M5EEzFbClLnNIHIGHTstAo8Ja7FNC84eXRtAvquwpT9ZkkilMNNuGOgoa5ro9ZLaTxUHmwDFh5naCH5cVi06tK-r_rdWx47tit3U4SF4F",
+            "width": 3096
+          }
+        ],
+        "place_id": "ChIJSzOH-IBNz5QRGLCUFN3mRNI",
+        "plus_code": {
+          "compound_code": "VQQJ+M5 Jardim Kioto II, Indaiatuba - State of São Paulo",
+          "global_code": "588JVQQJ+M5"
+        },
+        "rating": 5,
+        "reference": "ChIJSzOH-IBNz5QRGLCUFN3mRNI",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 3
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "R. dos Indaiás, 532 - Jardim Santa Cruz, Indaiatuba - SP, 13342-120, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.0992046,
+            "lng": -47.2130558
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.09784047010728,
+              "lng": -47.21165097010727
+            },
+            "southwest": {
+              "lat": -23.10054012989272,
+              "lng": -47.21435062989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Du'Tião Lanches",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3120,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109714742126066780641\">A Google User</a>"
+            ],
+            "photo_reference": "ATtYBwLMB5IqYFm3jNDYC8QFLEATC8fJLSH6xJ1B6dtkOp34Vh80GQtZsq33ceYfDu7kNHeg9yUnm6fJcyOjCx_r0bcBBRM1O3b8K990UXjev5UFRNjcTvxitl3f07MCzWwNmI6x51zB9vW2dXby-8UjglgIoI66ssb0NS7uI_g7m_QvjPTV",
+            "width": 4160
+          }
+        ],
+        "place_id": "ChIJK4cg6qhLz5QRZEv0tSMwovQ",
+        "plus_code": {
+          "compound_code": "WQ2P+8Q Jardim Santa Cruz, Indaiatuba - State of São Paulo",
+          "global_code": "588JWQ2P+8Q"
+        },
+        "rating": 5,
+        "reference": "ChIJK4cg6qhLz5QRZEv0tSMwovQ",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "R. Candelária, 19 - Centro, Indaiatuba - SP, 13330-180, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.0881026,
+            "lng": -47.2171212
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.08678047010728,
+              "lng": -47.21571022010728
+            },
+            "southwest": {
+              "lat": -23.08948012989272,
+              "lng": -47.21840987989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Famintos lanches BOX 11 Praça Prudente de Morais",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4160,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101636110108203344843\">A Google User</a>"
+            ],
+            "photo_reference": "ATtYBwJW3b7sI6VjP8qkPViRWFT1dzgMVNN_Uju0sytPMs88NzhSoczHXrIjfpfDn5YaDi1RqAebKaNzLpbvht1IGezbkM1jKAboH6tr6O5svdY7D554_630yL8G4CB3-h6bgdUc8y8lhK-dMhmH2FdsRtAUb6lprA1AI4PjtVF5XUIZVvia",
+            "width": 3120
+          }
+        ],
+        "place_id": "ChIJH1ngBhqzyJQR3Zw7vB8kv-U",
+        "plus_code": {
+          "compound_code": "WQ6M+Q5 Centro, Indaiatuba - State of São Paulo",
+          "global_code": "588JWQ6M+Q5"
+        },
+        "rating": 5,
+        "reference": "ChIJH1ngBhqzyJQR3Zw7vB8kv-U",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Alameda Dr. José Cardeal, 35 - Jardim Pedroso, Indaiatuba - SP, 13343-100, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.0930553,
+            "lng": -47.2043954
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.09169347010728,
+              "lng": -47.20305997010728
+            },
+            "southwest": {
+              "lat": -23.09439312989272,
+              "lng": -47.20575962989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Orfeu Lanches",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 2322,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106475075089068872404\">carla</a>"
+            ],
+            "photo_reference": "ATtYBwJav5Lh3kSL8I-if275aTkarDhhEHUToycKX8wHPQ_cJSwNXKxzgzETz2gdmWdhbzvL-oLezGJSDrFxccZG2QP_1R9Vea7f98AgzH4EHcjrx4lHS7FV1qJF2Lqw-z9xpzs9m_9VFYYcOv8X7S--oZshI8ewE-d_jUY0lIwL-QiJpHeP",
+            "width": 4128
+          }
+        ],
+        "place_id": "ChIJP2JyYE1Lz5QRj8td9_IPZ0E",
+        "plus_code": {
+          "compound_code": "WQ4W+Q6 Jardim Pedroso, Indaiatuba - State of São Paulo",
+          "global_code": "588JWQ4W+Q6"
+        },
+        "price_level": 1,
+        "rating": 4.6,
+        "reference": "ChIJP2JyYE1Lz5QRj8td9_IPZ0E",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 47
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "R. José Estanislau Ambiel, 1996 - Jardim Morada do Sol, Indaiatuba - SP, 13348-320, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.1174319,
+            "lng": -47.2356647
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.11607077010727,
+              "lng": -47.23435547010728
+            },
+            "southwest": {
+              "lat": -23.11877042989272,
+              "lng": -47.23705512989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Joel Lanches",
+        "place_id": "ChIJUwAj28BMz5QRspwihm289eI",
+        "plus_code": {
+          "compound_code": "VQM7+2P Jardim Morada do Sol, Indaiatuba - State of São Paulo",
+          "global_code": "588JVQM7+2P"
+        },
+        "rating": 5,
+        "reference": "ChIJUwAj28BMz5QRspwihm289eI",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "R. Zephiro Puccinelli, 1165-1227 - Jardim Morada do Sol, Indaiatuba - SP, 13344-180, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.1264829,
+            "lng": -47.2365767
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.12511717010728,
+              "lng": -47.23529602010727
+            },
+            "southwest": {
+              "lat": -23.12781682989272,
+              "lng": -47.23799567989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Arildo Lanches",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 768,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117737598244614576611\">A Google User</a>"
+            ],
+            "photo_reference": "ATtYBwLsO4S995vgTmJAEuUMjG56smGM1fBX0WRZ-QkD1DjHbbaJZEXXxEvZ62i-2LyFJKNeT6lhwuVBWfycbFhLNboj6-wmZKXj1BC-VNvfMKQwKs8U7NK8leRz_1_abKW6keLQrnzCl8f8qt_VZtFkEoMGR6PthygakOzZgmxjsUcx38Tf",
+            "width": 1024
+          }
+        ],
+        "place_id": "ChIJTeTwhutMz5QRbNSg0__nWJM",
+        "plus_code": {
+          "compound_code": "VQF7+C9 Jardim Morada do Sol, Indaiatuba - State of São Paulo",
+          "global_code": "588JVQF7+C9"
+        },
+        "price_level": 1,
+        "rating": 4.8,
+        "reference": "ChIJTeTwhutMz5QRbNSg0__nWJM",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 103
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "n 336 - R. Mário de Almeida - Vila Brizzola, Indaiatuba - SP, 13343-510, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.1019084,
+            "lng": -47.2110972
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.10060947010727,
+              "lng": -47.20973272010728
+            },
+            "southwest": {
+              "lat": -23.10330912989272,
+              "lng": -47.21243237989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Lanchão VM",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 720,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104756250587148826508\">A Google User</a>"
+            ],
+            "photo_reference": "ATtYBwIxjBZsaLGXzq70bdd-BvzDc5rysGZLYrRpKWbYvSGBmcVi2supKMIxCifoeEOuyd8aXNQX-kdYUIropPIL17oWNcLKlIL2jMjFsq5wc4DsJ87ZeMCAB3xpn893S48YkwPB20MvbHSbGV1Oh9tUb1nQclaO7OQnhan3R5ea53fVyjKT",
+            "width": 1280
+          }
+        ],
+        "place_id": "ChIJB4RbarlLz5QRRjfmnfQI5xE",
+        "plus_code": {
+          "compound_code": "VQXQ+6H Vila Brizzola, Indaiatuba - State of São Paulo",
+          "global_code": "588JVQXQ+6H"
+        },
+        "rating": 5,
+        "reference": "ChIJB4RbarlLz5QRRjfmnfQI5xE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Praça Maria Imaculada - Cidade Nova II, Indaiatuba - SP, 13334-381, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.0808526,
+            "lng": -47.197729
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.07953142010728,
+              "lng": -47.19640987010728
+            },
+            "southwest": {
+              "lat": -23.08223107989272,
+              "lng": -47.19910952989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Lanches do Gordão",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3120,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103429580451514655073\">ELAINE MORAES</a>"
+            ],
+            "photo_reference": "ATtYBwKnhQ5IRdDoPU1iffdjEFMfwygqIzIve1zyI2-QwJ3jKkOqN2rLU8vfk875gMyLbN4O2z0epbJ8sz9hyHnyj9GW7TCB3tpfQf7XN-5BNd7LRsVHp3ALgMC_5lkLSYl1QcXavUlmD03MkpmnICWEXadlH8uPs795GSY8yj1CHmbqQL6d",
+            "width": 4160
+          }
+        ],
+        "place_id": "ChIJ4T7vcbe0yJQRBtZ-qpwI9v8",
+        "plus_code": {
+          "compound_code": "WR92+MW Cidade Nova II, Indaiatuba - State of São Paulo",
+          "global_code": "588JWR92+MW"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJ4T7vcbe0yJQRBtZ-qpwI9v8",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 98
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "R. João Martini, 1272 - Jardim Morada do Sol, Indaiatuba - SP, 13348-356, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.1200511,
+            "lng": -47.2419075
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.11868567010728,
+              "lng": -47.24062172010728
+            },
+            "southwest": {
+              "lat": -23.12138532989272,
+              "lng": -47.24332137989273
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Itu Lanches",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3264,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117946890941542279825\">A Google User</a>"
+            ],
+            "photo_reference": "ATtYBwIS8_KmUkHOy0rsJQoLxLH5kojYwKBSlpPhrfhKK68acKYN-bX8_b6f8ZZOLTBkla63jGhms4-JN4Gdwv5SzQB0-v2wgiCIpbxPWHXSTNe-RA4w0GZf0954gmeRAOvlZ6NmgLwkq5ARXshUgBOrqnbBrrnYf8vjEkEKo-wcSqCoKLbW",
+            "width": 2448
+          }
+        ],
+        "place_id": "ChIJJx8OE8NMz5QR8PpZWBS1yWY",
+        "plus_code": {
+          "compound_code": "VQH5+X6 Jardim Morada do Sol, Indaiatuba - State of São Paulo",
+          "global_code": "588JVQH5+X6"
+        },
+        "rating": 4.9,
+        "reference": "ChIJJx8OE8NMz5QR8PpZWBS1yWY",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 95
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Vila Nossa Sra. Aparecida, Indaiatuba - State of São Paulo, 13331-010, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.0779875,
+            "lng": -47.2136106
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.07662932010728,
+              "lng": -47.21233052010727
+            },
+            "southwest": {
+              "lat": -23.07932897989272,
+              "lng": -47.21503017989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "PALADORO LANCHES",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 2643,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107483711108515008472\">Ananias Junior</a>"
+            ],
+            "photo_reference": "ATtYBwJiRhIgHrGpfLF9Hq0IZIRKPyCpxNAp-dkzGCVJdp7gmmpqihnFz2kWHUagsilh5a5mese1LFm79LlJ0VkS8_l907Fb81t1aa-YFqezrpf0EYteqMN6t9XAwhItkIREwZagFpM_afjf54abuGgknJi2T47_QVnOAtQYjDeLzVf7YP8o",
+            "width": 2250
+          }
+        ],
+        "place_id": "ChIJscBYe6C0yJQRcEp3RKgtkxQ",
+        "plus_code": {
+          "compound_code": "WQCP+RH Vila Nossa Sra. Aparecida, Indaiatuba - State of São Paulo",
+          "global_code": "588JWQCP+RH"
+        },
+        "rating": 4.8,
+        "reference": "ChIJscBYe6C0yJQRcEp3RKgtkxQ",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 19
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Av. Conceição, 2020 - Cidade Nova II, Indaiatuba - SP, 13335-310, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.0762637,
+            "lng": -47.2013407
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.07494862010728,
+              "lng": -47.20003552010727
+            },
+            "southwest": {
+              "lat": -23.07764827989272,
+              "lng": -47.20273517989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Vibe Lanches",
+        "opening_hours": {
+          "open_now": true
+        },
+        "place_id": "ChIJnXFWfam1yJQRf52yS5rMLGU",
+        "plus_code": {
+          "compound_code": "WQFX+FF Cidade Nova II, Indaiatuba - State of São Paulo",
+          "global_code": "588JWQFX+FF"
+        },
+        "rating": 0,
+        "reference": "ChIJnXFWfam1yJQRf52yS5rMLGU",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 0
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "R. Sd. João Carlos de Oliveira Júnior, 1054 - Jardim do Vale 2, Indaiatuba - SP, 13345-120, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.1038013,
+            "lng": -47.2221021
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.10249927010728,
+              "lng": -47.22068407010727
+            },
+            "southwest": {
+              "lat": -23.10519892989272,
+              "lng": -47.22338372989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "F.B.A Lanches",
+        "opening_hours": {
+          "open_now": false
+        },
+        "place_id": "ChIJzQocPpRNz5QRvB8R8A3PwJU",
+        "plus_code": {
+          "compound_code": "VQWH+F5 Jardim do Vale 2, Indaiatuba - State of São Paulo",
+          "global_code": "588JVQWH+F5"
+        },
+        "rating": 0,
+        "reference": "ChIJzQocPpRNz5QRvB8R8A3PwJU",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 0
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "R. Manoel Francisco Ribeiro Garcia, 198 - Jardim Oliveira Camargo, Indaiatuba - SP, 13340-703, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.1139745,
+            "lng": -47.2028004
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.11261812010728,
+              "lng": -47.20143947010728
+            },
+            "southwest": {
+              "lat": -23.11531777989272,
+              "lng": -47.20413912989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "TRADIÇÃO lanches Delivery",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 680,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111267183915395238004\">A Google User</a>"
+            ],
+            "photo_reference": "ATtYBwLjQXRZsJoEbCkaptfOHiWYmusnsmprhWz1jOn-GfaaaWL7kZf9RkfMzsWRLy42WsF9bSJYgG_mFRikMSDNiNhZJaD-6wyhKZMIOx__1_ARW0N2SAE429WpO6VzTEmqP4iczvYx5w9ScZ3wgIVLw9-qi7Tr52ii68lU5-bNOuJC2u-l",
+            "width": 680
+          }
+        ],
+        "place_id": "ChIJCVCoJUGzyJQREmcApB2Bs48",
+        "plus_code": {
+          "compound_code": "VQPW+CV Jardim Oliveira Camargo, Indaiatuba - State of São Paulo",
+          "global_code": "588JVQPW+CV"
+        },
+        "rating": 4.4,
+        "reference": "ChIJCVCoJUGzyJQREmcApB2Bs48",
+        "types": [
+          "meal_delivery",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 15
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Av. Pres. Kennedy, 982 - Cidade Nova I, Indaiatuba - SP, 13334-170, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.0826856,
+            "lng": -47.2052613
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.08129252010728,
+              "lng": -47.20388872010727
+            },
+            "southwest": {
+              "lat": -23.08399217989272,
+              "lng": -47.20658837989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Rox Burguer",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1836,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101678591502966166435\">Ygor Duarte</a>"
+            ],
+            "photo_reference": "ATtYBwK63zGjaoG2F3IDvLImnObmXM6TaRQvXgxUXdLtqmWlLJ1g-Zz0yMSSGqV6h_4Qj_IRE5UrMj4M-P5clvX28tQl4O7KnoQFIDC4TSqqdXf9xh2LP6EfTGPGp4zrSZmlCPMFzPXrus7-4vGVMPx0PYezDyoxFkJKkiORU4Jhr_or3Sja",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJS7b-9q-0yJQRK6YoGxfKft0",
+        "plus_code": {
+          "compound_code": "WQ8V+WV Cidade Nova I, Indaiatuba - State of São Paulo",
+          "global_code": "588JWQ8V+WV"
+        },
+        "price_level": 1,
+        "rating": 4.7,
+        "reference": "ChIJS7b-9q-0yJQRK6YoGxfKft0",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1644
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "R. Vital Barnabé, 208 - Nucleo Hab. Brg. Faria Lima, Indaiatuba - SP, 13345-413, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.1035653,
+            "lng": -47.2172967
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.10216502010728,
+              "lng": -47.21592442010728
+            },
+            "southwest": {
+              "lat": -23.10486467989272,
+              "lng": -47.21862407989272
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Alemão lanches box 5",
+        "place_id": "ChIJO0sIPe1Nz5QRkV7LApRT9o0",
+        "plus_code": {
+          "compound_code": "VQWM+H3 Nucleo Hab. Brg. Faria Lima, Indaiatuba - State of São Paulo",
+          "global_code": "588JVQWM+H3"
+        },
+        "rating": 0,
+        "reference": "ChIJO0sIPe1Nz5QRkV7LApRT9o0",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 0
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "R. Pedro Antonio, 218 - Jardim Oliveira Camargo, Indaiatuba - SP, 13340-714, Brazil",
+        "geometry": {
+          "location": {
+            "lat": -23.110613,
+            "lng": -47.19994
+          },
+          "viewport": {
+            "northeast": {
+              "lat": -23.10926347010728,
+              "lng": -47.19858817010727
+            },
+            "southwest": {
+              "lat": -23.11196312989272,
+              "lng": -47.20128782989271
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "3+ Lanches Hamburgueria",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 768,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100562176975008292215\">3+ Lanches</a>"
+            ],
+            "photo_reference": "ATtYBwJpqydNGWmaZ5a4o8Sng2Qn6ajzU4aXNQDEw-AeE9Pvx55ciSM5efSQdThXDT2py2G4Z38AkYyv1KEnIugrQ6U1hBQv37cJvY7j-quqIEpDXsXtL6f_5YTnUV_YDY6G77UEgLYThyV_hF0qcAQhHs-yyKmiaI4iWpsJ9ikbiaEMmaW4",
+            "width": 1280
+          }
+        ],
+        "place_id": "ChIJX-Zk82lLz5QRAxANkS6Qv5E",
+        "plus_code": {
+          "compound_code": "VRQ2+Q2 Jardim Oliveira Camargo, Indaiatuba - State of São Paulo",
+          "global_code": "588JVRQ2+Q2"
+        },
+        "rating": 4.6,
+        "reference": "ChIJX-Zk82lLz5QRAxANkS6Qv5E",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 22
       }
     ],
     "status": "OK"
