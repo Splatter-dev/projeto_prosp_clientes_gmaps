@@ -1,0 +1,774 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "ATtYBwKd3ojT_-TsjF0shMRlHHVG7jRAS5TjOkYeC7Lqkh_fzFjpRx9HWXlILrsooHolSoZk02oqeFC3oxcqpaGMNe-cDPDpPPzjlAsYyudMX2cDTXuFbZHsnGA-kcFUyGeGz508r3ca1wXWbRICS7DgbrGcVGd6MG08LB2GD2JpyqptAozxyV82mGujGMnGLuZv_CDujSmhJa-SBJlnOdNYGmye9KwqKVkyusfB3tSsAILbXk_Nb1pHBL9XORe_zsVKfErzoE26PlnSPUqwGlAslEghzqHTXVEDOP0-l2cuohOiY55ODi70LTeXRR1soC-ldNZXkJjl9yL08j4JURHPQdkRZdYMgDqB-qCmKLepr4abf65qTGTPA1ehPLqLVcl2bx3dtddaL-X3T0I20Nrj5tBqe-2Sa71Mng",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Torre Business - Condomínio Office Premium, R. das Orquídeas, 737 - Sala 613 - Jardim Pompeia, Indaiatuba - SP, 13345-040, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -23.0955291,
+               "lng" : -47.2237241
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.09404107010728,
+                  "lng" : -47.22232852010728
+               },
+               "southwest" : {
+                  "lat" : -23.09674072989272,
+                  "lng" : -47.22502817989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Inoue e Biscassi Advogados | Escritório de Advocacia em Indaiatuba | Direito Empresarial Cível e Trabalhista, Seguro, Consumidor, Médico",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106386670028158510212\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLSaGwvmwcHnVk_rQ_G0XXkrEgZ--ihxcm0FdS4iF9oKWkR-Q6N3jAFwkYiq0rrRfEhWQITF8y-k69bdSvLq6A6X6-T_ltA9o-bw_hmcsMePLsUqBFulPqJ714TKNvErPDdoexVXi7C7tBpxXHoHWK7N9p2A2G7QYYka4Uo3d4dr3zn",
+               "width" : 2024
+            }
+         ],
+         "place_id" : "ChIJm1HNvr-zyJQR03yLtAuWeC4",
+         "plus_code" : {
+            "compound_code" : "WQ3G+QG Jardim Pompeia, Indaiatuba - State of São Paulo",
+            "global_code" : "588JWQ3G+QG"
+         },
+         "rating" : 5,
+         "reference" : "ChIJm1HNvr-zyJQR03yLtAuWeC4",
+         "types" : [ "lawyer", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 10
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "R. Antônio Angelino Rossi, 589 - Jardim Morada do Sol, Indaiatuba - SP, 13348-290, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -23.1254695,
+               "lng" : -47.2392395
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.12411967010728,
+                  "lng" : -47.23788967010727
+               },
+               "southwest" : {
+                  "lat" : -23.12681932989272,
+                  "lng" : -47.24058932989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Rogério Pontara Advogado",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 521,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107902394829470958681\"\u003eRogério Pontara\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKEdWwcyHaSLAZY-n6uTsRfupm2oOno5dv2vqlypwG9uLkNemF1ROvdVpO5gz77D7eeM0bq4xiHHgZ5NZG1UneuZ2rbqXc7iB8N3KzEfvNXhVuzz5f0X9ya1Qi5DNCjkU6YuOzEnXRoEpYVyzGGo7dl1Le27KkfPNJkj82yyHfA0vOx",
+               "width" : 932
+            }
+         ],
+         "place_id" : "ChIJxYt0eulMz5QRyj5SkjYRE_U",
+         "plus_code" : {
+            "compound_code" : "VQF6+R8 Jardim Morada do Sol, Indaiatuba - State of São Paulo",
+            "global_code" : "588JVQF6+R8"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJxYt0eulMz5QRyj5SkjYRE_U",
+         "types" : [ "lawyer", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Praça Leonor de Barros Camargo, nº 42 - sala 22 - Centro, Indaiatuba - SP, 13330-050, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -23.0912912,
+               "lng" : -47.2180189
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.08994137010728,
+                  "lng" : -47.21666907010727
+               },
+               "southwest" : {
+                  "lat" : -23.09264102989272,
+                  "lng" : -47.21936872989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Ortiz Camargo Advogados",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101989997879400686169\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIGLeSuZ7P23V1V1VdFab0h-xMsPOzcwUy6hYixxgeZAECHjQbByzyzqvi6Z11hxxDQCowiGtjuGEbHLkExWEGPz8V0mE7VOPBo40ZtP1NOkLFJG9raQ2zV1jLcXloh-N234ZZY3MXpS_3FgTK5av0pHWv3KJ7uK7AhlbTTZ8OxE8Hr",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJ1_f_B6m0yJQRdpvqZBjidXI",
+         "plus_code" : {
+            "compound_code" : "WQ5J+FQ Centro, Indaiatuba - State of São Paulo",
+            "global_code" : "588JWQ5J+FQ"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ1_f_B6m0yJQRdpvqZBjidXI",
+         "types" : [ "lawyer", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "R. Voluntário João dos Santos, 745 - Jardim Pau Preto, Indaiatuba - SP, 13345-650, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -23.0890334,
+               "lng" : -47.2208658
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.08770022010728,
+                  "lng" : -47.21947887010727
+               },
+               "southwest" : {
+                  "lat" : -23.09039987989272,
+                  "lng" : -47.22217852989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Alba Advogados",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114184074372683214060\"\u003eAlba Advogados\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwITKeiLeCMr_q-T_PKlURs47JVGnuCgCS4LHbj5QvaGUjbmKhv2LWpUMkflFcLbRQLQkScSEDODywUPENAO_x1U6W64_vdF6UNg4VIhB6jb-GbZFybq-MV9zX4BYiC6CrfRvsATyrFGYfyt6-peYYXSH3PKorns8xXPfb_EmlR20HGi",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJLUJBp6i0yJQR6LuyIehl1Vk",
+         "plus_code" : {
+            "compound_code" : "WQ6H+9M Jardim Pau Preto, Indaiatuba - State of São Paulo",
+            "global_code" : "588JWQ6H+9M"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJLUJBp6i0yJQR6LuyIehl1Vk",
+         "types" : [ "lawyer", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. Eng. Fábio Roberto Barnabé, 1399 - Jardim Adriana, Indaiatuba - SP, 13330-020, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -23.0834582,
+               "lng" : -47.22306589999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.08210837010728,
+                  "lng" : -47.22171607010728
+               },
+               "southwest" : {
+                  "lat" : -23.08480802989272,
+                  "lng" : -47.22441572989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Anadão Advogados",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107733662574030919206\"\u003eDiego Valle\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIvZRYcCIHmZr6GtfhfqGvzcYHCTHPr4NCWOWYvxGBibMIpzPMETt08xDn0i-uzI19JVQED7Eitd4VCupdW6uwC8KI27hbum5c_BvKQTa47P2HtxNmg44Qtk3NuqCbDg1mCQSNT87d_e2Hh8OL3_dI7zAIivcS4OL0gWOCR0qezoq62",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJTyQsU79Mz5QR8-hpAn45cSU",
+         "plus_code" : {
+            "compound_code" : "WQ8G+JQ Jardim Adriana, Indaiatuba - State of São Paulo",
+            "global_code" : "588JWQ8G+JQ"
+         },
+         "rating" : 5,
+         "reference" : "ChIJTyQsU79Mz5QR8-hpAn45cSU",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. Ário Barnabé, 1111 - Jardim Morada do Sol, Indaiatuba - SP, 13348-500, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -23.1173694,
+               "lng" : -47.2351868
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.11595062010728,
+                  "lng" : -47.23381602010728
+               },
+               "southwest" : {
+                  "lat" : -23.11865027989272,
+                  "lng" : -47.23651567989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Munhoz Advocacia",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJR1zOxsBMz5QR67scXCFeiRk",
+         "plus_code" : {
+            "compound_code" : "VQM7+3W Jardim Morada do Sol, Indaiatuba - State of São Paulo",
+            "global_code" : "588JVQM7+3W"
+         },
+         "rating" : 5,
+         "reference" : "ChIJR1zOxsBMz5QR67scXCFeiRk",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "R. Siqueira Campos, 55 - Vila Sfeir, Indaiatuba - SP, 13330-290, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -23.0869809,
+               "lng" : -47.222081
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.08558052010728,
+                  "lng" : -47.22070687010729
+               },
+               "southwest" : {
+                  "lat" : -23.08828017989272,
+                  "lng" : -47.22340652989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Schreiner e Stein Advogados Associados",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJzat5dVqzyJQRYLS38NMFTOw",
+         "plus_code" : {
+            "compound_code" : "WQ7H+65 Vila Sfeir, Indaiatuba - State of São Paulo",
+            "global_code" : "588JWQ7H+65"
+         },
+         "rating" : 0,
+         "reference" : "ChIJzat5dVqzyJQRYLS38NMFTOw",
+         "types" : [
+            "lawyer",
+            "accounting",
+            "finance",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "R. Cerqueira César, 634 - Centro, Indaiatuba - SP, 13330-005, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -23.0868464,
+               "lng" : -47.2180483
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.08543922010728,
+                  "lng" : -47.21666992010727
+               },
+               "southwest" : {
+                  "lat" : -23.08813887989272,
+                  "lng" : -47.21936957989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Portes & Ferreira Sociedade de Advogados",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ89idX1ezyJQRzp_vD1Fo49s",
+         "plus_code" : {
+            "compound_code" : "WQ7J+7Q Centro, Indaiatuba - State of São Paulo",
+            "global_code" : "588JWQ7J+7Q"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ89idX1ezyJQRzp_vD1Fo49s",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. Pres. Kennedy, 1352 - Cidade Nova I, Indaiatuba - SP, 13334-170, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -23.0843259,
+               "lng" : -47.2019086
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.08292657010728,
+                  "lng" : -47.20053057010728
+               },
+               "southwest" : {
+                  "lat" : -23.08562622989272,
+                  "lng" : -47.20323022989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "AR Santos Advocacia",
+         "place_id" : "ChIJUQRVB7G0yJQRJveMpptt7Lg",
+         "plus_code" : {
+            "compound_code" : "WQ8X+76 Cidade Nova I, Indaiatuba - State of São Paulo",
+            "global_code" : "588JWQ8X+76"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJUQRVB7G0yJQRJveMpptt7Lg",
+         "types" : [ "lawyer", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. dos Trabalhadores, 116 - Sala 1206 - Vila Castelo Branco, Indaiatuba - SP, 13338-050, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -23.0871215,
+               "lng" : -47.1990817
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.08576172010728,
+                  "lng" : -47.19768462010727
+               },
+               "southwest" : {
+                  "lat" : -23.08846137989272,
+                  "lng" : -47.20038427989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Amanda Barros Advocacia",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 400,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101022184404686225187\"\u003eAmanda Barros Advocacia\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwKFKUyuyL15rF8AwMqWPczz1Vl8fAs7g_bxQGEzCmtHbmmDq0bP55qOkKBd4GF_EgLZ3HyzJTSwC6l2eBWSOhxC7uWXLLS35Qw3w27KtHrp1z_-j_wVPgil4-dNVjZ0eZG0M0KNmAlttWR_D7mgBYBFlC053EO6yy3O44_vt1hJ3dpj",
+               "width" : 900
+            }
+         ],
+         "place_id" : "ChIJlw_oPbC0yJQRiilDiymsuuo",
+         "plus_code" : {
+            "compound_code" : "WR72+59 Vila Castelo Branco, Indaiatuba - State of São Paulo",
+            "global_code" : "588JWR72+59"
+         },
+         "rating" : 0,
+         "reference" : "ChIJlw_oPbC0yJQRiilDiymsuuo",
+         "types" : [ "lawyer", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "R. Ademar de Barros, 475 - Centro, Indaiatuba - SP, 13330-130, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -23.0841633,
+               "lng" : -47.2180857
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.08281447010728,
+                  "lng" : -47.21673367010728
+               },
+               "southwest" : {
+                  "lat" : -23.08551412989272,
+                  "lng" : -47.21943332989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Benito Advogados",
+         "place_id" : "ChIJ9c9WTOOzyJQRNXxCGr5rYx4",
+         "plus_code" : {
+            "compound_code" : "WQ8J+8Q Centro, Indaiatuba - State of São Paulo",
+            "global_code" : "588JWQ8J+8Q"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ9c9WTOOzyJQRNXxCGr5rYx4",
+         "types" : [ "lawyer", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. Horst Frederico João Heer, 1757 - Europark Comercial, Indaiatuba - SP, 13348-758, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -23.1162864,
+               "lng" : -47.2732204
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.11488197010728,
+                  "lng" : -47.27188092010728
+               },
+               "southwest" : {
+                  "lat" : -23.11758162989272,
+                  "lng" : -47.27458057989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Leticia Colitti Advogados em Indaiatuba",
+         "place_id" : "ChIJgTZzmUpNz5QRdZVAIgTTLx0",
+         "plus_code" : {
+            "compound_code" : "VPMG+FP Europark Comercial, Indaiatuba - State of São Paulo",
+            "global_code" : "588JVPMG+FP"
+         },
+         "rating" : 0,
+         "reference" : "ChIJgTZzmUpNz5QRdZVAIgTTLx0",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. Geraldo Hackmann, 792 - Nucleo Hab. Brg. Faria Lima, Indaiatuba - SP, 13345-400, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -23.1083069,
+               "lng" : -47.2195355
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.10695467010727,
+                  "lng" : -47.21819352010727
+               },
+               "southwest" : {
+                  "lat" : -23.10965432989272,
+                  "lng" : -47.22089317989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Moreira e Ratti Advogados",
+         "place_id" : "ChIJEafc2qVMz5QREbcFxnmAYKc",
+         "plus_code" : {
+            "compound_code" : "VQRJ+M5 Nucleo Hab. Brg. Faria Lima, Indaiatuba - State of São Paulo",
+            "global_code" : "588JVQRJ+M5"
+         },
+         "rating" : 5,
+         "reference" : "ChIJEafc2qVMz5QREbcFxnmAYKc",
+         "types" : [ "lawyer", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. Presidente Kennedy, 1386, Sala 74, Kennedy Office - Cidade Nova I, Indaiatuba - SP, 13334-170, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -23.084938,
+               "lng" : -47.2026775
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.08356842010727,
+                  "lng" : -47.20136842010728
+               },
+               "southwest" : {
+                  "lat" : -23.08626807989272,
+                  "lng" : -47.20406807989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "PNM Advocacia - Tributário, Civil, Trabalhista Empresarial, Familiar, Previdenciário em Indaiatuba.",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ1wVmrJq1yJQRJ9YATbAu6nM",
+         "plus_code" : {
+            "compound_code" : "WQ8W+2W Cidade Nova I, Indaiatuba - State of São Paulo",
+            "global_code" : "588JWQ8W+2W"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ1wVmrJq1yJQRJ9YATbAu6nM",
+         "types" : [
+            "lawyer",
+            "accounting",
+            "finance",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "R. Vinte e Quatro de Maio, 805 - Centro, Indaiatuba - SP, 13330-230, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -23.0840995,
+               "lng" : -47.216241
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.08277017010728,
+                  "lng" : -47.21490222010728
+               },
+               "southwest" : {
+                  "lat" : -23.08546982989272,
+                  "lng" : -47.21760187989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Paulo Alves Advocacia Previdenciária",
+         "place_id" : "ChIJsZwrUVizyJQRxkVr6ZxRssc",
+         "plus_code" : {
+            "compound_code" : "WQ8M+9G Centro, Indaiatuba - State of São Paulo",
+            "global_code" : "588JWQ8M+9G"
+         },
+         "rating" : 0,
+         "reference" : "ChIJsZwrUVizyJQRxkVr6ZxRssc",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "R. Cinco de Julho, 1006 - Centro, Indaiatuba - SP, 13330-220, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -23.0868473,
+               "lng" : -47.2183743
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.08548987010728,
+                  "lng" : -47.21704107010727
+               },
+               "southwest" : {
+                  "lat" : -23.08818952989272,
+                  "lng" : -47.21974072989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Benito Advocacia",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJF4TrHlqzyJQRlYv03VIHNIE",
+         "plus_code" : {
+            "compound_code" : "WQ7J+7M Centro, Indaiatuba - State of São Paulo",
+            "global_code" : "588JWQ7J+7M"
+         },
+         "rating" : 5,
+         "reference" : "ChIJF4TrHlqzyJQRlYv03VIHNIE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "R. Pedro de Toledo, 665 - 7° andar - Conjunto 71 - Centro, Indaiatuba - SP, 13330-090, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -23.0860222,
+               "lng" : -47.2140239
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.08469117010728,
+                  "lng" : -47.21263232010728
+               },
+               "southwest" : {
+                  "lat" : -23.08739082989272,
+                  "lng" : -47.21533197989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Luis Mesquita Advocacia Trabalhista - Indaiatuba",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 775,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114759697226247707069\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwIAiW97o6Tm1tWOjbrStNx-z9qsu6CYsU8NVq0LNporhqZBYL_xvZiucmcyGmCf-dCOkH-eN9ZGo_z-bS9v0vJTsnkhXTJ3lvCEVP3-12cTmripsyeC2ZfGHQ73zKk20KIgY512Z0Cr4gFF3vIRs8dUJzF_64OL0y2jqHyxuJaISJl5",
+               "width" : 577
+            }
+         ],
+         "place_id" : "ChIJqxE8QlazyJQRb9GN5m1i9pQ",
+         "plus_code" : {
+            "compound_code" : "WQ7P+H9 Centro, Indaiatuba - State of São Paulo",
+            "global_code" : "588JWQ7P+H9"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJqxE8QlazyJQRb9GN5m1i9pQ",
+         "types" : [ "lawyer", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Av. Pres. Kennedy, 1006 - Cidade Nova I, Indaiatuba - SP, 13334-170, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -23.0828007,
+               "lng" : -47.2050305
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.08140322010728,
+                  "lng" : -47.20365492010728
+               },
+               "southwest" : {
+                  "lat" : -23.08410287989272,
+                  "lng" : -47.20635457989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Grupo Soares Ferreira",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 571,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114113797461835635102\"\u003eBeraldo, Carvalho e Ferreira Advogados\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJ7-rAOWj2YCdLUIx0STTJvvK3xXS-5P4TEoceWKcqOntxi47ckHGkqL77M3wKKe48YB7oRoWEvY2-7z5y2bCHndIK5Hi-UiUkJ35y-nG4hob6KEdoBAhU7-9sdfcXCjEyy0r4HB5ojNxoFqF7gexOCmXldXBNIIEkm3xh_ZCfiFkdR",
+               "width" : 503
+            }
+         ],
+         "place_id" : "ChIJrQyq2K60yJQRGur2-Q_9yFU",
+         "plus_code" : {
+            "compound_code" : "WQ8V+VX Cidade Nova I, Indaiatuba - State of São Paulo",
+            "global_code" : "588JWQ8V+VX"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJrQyq2K60yJQRGur2-Q_9yFU",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "R. Antônio Zoppi, 567 - Jardim Pau Preto, Indaiatuba - SP, 13330-390, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -23.091801,
+               "lng" : -47.21949490000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.09050697010728,
+                  "lng" : -47.21817317010728
+               },
+               "southwest" : {
+                  "lat" : -23.09320662989272,
+                  "lng" : -47.22087282989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Alexsandra Manoel Garcia - Sociedade Individual de Advocacia",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100471762411512139531\"\u003eAlexsandra Manoel Garcia - Sociedade Individual de Advocacia\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwJLM1iVwJv-qSJMiDql4DruFI7dat7SdFLr4jVxZZeyWvP7-j8y1yxZzLQlE3gQYEwNIAAcxor4FFgF6NepIVGaGVkt0ddhEmUbXhCSndXqv2Hv_ILiFRg-mXx139Cat1_1WGIis6tXsFXGzyXNrO7X5m7NYr6kHUuEZCuu4YoNEAPn",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJicu9-1OzyJQRej1YW91AI6s",
+         "plus_code" : {
+            "compound_code" : "WQ5J+76 Jardim Pau Preto, Indaiatuba - State of São Paulo",
+            "global_code" : "588JWQ5J+76"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJicu9-1OzyJQRej1YW91AI6s",
+         "types" : [ "point_of_interest", "establishment" ],
+         "user_ratings_total" : 17
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "R. Bernardino de Campos, 725 - Centro, Indaiatuba - SP, 13330-260, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -23.0895294,
+               "lng" : -47.2141756
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.08821957010728,
+                  "lng" : -47.21284977010728
+               },
+               "southwest" : {
+                  "lat" : -23.09091922989273,
+                  "lng" : -47.21554942989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "name" : "Leite|Narezzi e Advogados Associados",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJjYKa4qm0yJQRWdTkctpm8IQ",
+         "plus_code" : {
+            "compound_code" : "WQ6P+58 Centro, Indaiatuba - State of São Paulo",
+            "global_code" : "588JWQ6P+58"
+         },
+         "rating" : 5,
+         "reference" : "ChIJjYKa4qm0yJQRWdTkctpm8IQ",
+         "types" : [ "lawyer", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      }
+   ],
+   "status" : "OK"
+}

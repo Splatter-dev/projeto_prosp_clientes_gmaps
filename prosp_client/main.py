@@ -1,5 +1,5 @@
-from files_and_requests import TextSearch, PlaceIdsDetailsList
-from places import RequestPlaces, PlaceIdsList, ContentToCsv
+from modules.files_and_requests import TextSearch, PlaceIdsDetailsList
+from modules.places import RequestPlaces, PlaceIdsList, ContentToCsv
 from pathlib import Path
 import json
 import urllib.request

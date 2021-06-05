@@ -1,0 +1,917 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Av. Ário Barnabé, 49 - Jardim Morada do Sol, Indaiatuba - SP, 13346-500, Brazil",
+    "geometry": {
+      "location": {
+        "lat": -23.1199602,
+        "lng": -47.2251278
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -23.11854857010728,
+          "lng": -47.22376077010728
+        },
+        "southwest": {
+          "lat": -23.12124822989272,
+          "lng": -47.22646042989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "name": "Morada Do Sol Odontologia Completa",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJxybCmJdMz5QR-WyFdqBgqt4",
+    "plus_code": {
+      "compound_code": "VQJF+2W Jardim Morada do Sol, Indaiatuba - State of São Paulo",
+      "global_code": "588JVQJF+2W"
+    },
+    "rating": 3.9,
+    "reference": "ChIJxybCmJdMz5QR-WyFdqBgqt4",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Av. Eng. Fábio Roberto Barnabé, 6616 - Colinas de Indaiatuba, Indaiatuba - SP, 13348-295, Brazil",
+    "geometry": {
+      "location": {
+        "lat": -23.1248499,
+        "lng": -47.2341893
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -23.12350007010728,
+          "lng": -47.23283947010728
+        },
+        "southwest": {
+          "lat": -23.12619972989272,
+          "lng": -47.23553912989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "name": "Odonto Excellence Indaiatuba",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 444,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107907963574328389760\">A Google User</a>"
+        ],
+        "photo_reference": "ATtYBwJftoNjQK35-r927CaHMCuDzqrNd5UUw29h_yyAFp0bxETrLsei0mUJFk9z6g4CCOXtx3ZlO1pImMTt2N1HX-VNahdO2mtexOuZ7aftzyCccDHsqYGPxJV1vVHdFV9YKBlr6Nv7wL2od_lBpltfTiOjDj59VbchLYHKTkLUVQno7MPH",
+        "width": 776
+      }
+    ],
+    "place_id": "ChIJ0WctSetMz5QRehnE_X-_Cy8",
+    "plus_code": {
+      "compound_code": "VQG8+38 Colinas de Indaiatuba, Indaiatuba - State of São Paulo",
+      "global_code": "588JVQG8+38"
+    },
+    "rating": 5,
+    "reference": "ChIJ0WctSetMz5QRehnE_X-_Cy8",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Av. Pres. Kennedy, 1620 - Cidade Nova I, Indaiatuba - SP, 13334-170, Brazil",
+    "geometry": {
+      "location": {
+        "lat": -23.0855109,
+        "lng": -47.1996547
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -23.08408567010727,
+          "lng": -47.19826127010728
+        },
+        "southwest": {
+          "lat": -23.08678532989272,
+          "lng": -47.20096092989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "name": "Oral Dental Center - 24 Hour Dentist Indaiatuba",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105085482462947977419\">Oral Center Odontologia</a>"
+        ],
+        "photo_reference": "ATtYBwImmWpb95U2aex6CWrlFkm1R_nMkZZx9iBnKe9sfxQ8K5oV87dPz20JVpVd5rGgsz_8KvhKE8lc2Nw-EqsVapx00JlmhZjFanKwdr6y9u7pxohEEr207dlFPdKqLKd_7HVPh9V1cBjvegkqECO3X6DxXVfgfXqvlK7YoVJ1rM7wVEYZ",
+        "width": 800
+      }
+    ],
+    "place_id": "ChIJu--Xqra0yJQRhvZPZSfxtQM",
+    "plus_code": {
+      "compound_code": "WR72+Q4 Cidade Nova I, Indaiatuba - State of São Paulo",
+      "global_code": "588JWR72+Q4"
+    },
+    "rating": 4.4,
+    "reference": "ChIJu--Xqra0yJQRhvZPZSfxtQM",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 38
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "R. Vinte e Quatro de Maio, 1365 - Centro, Indaiatuba - SP, 13330-060, Brazil",
+    "geometry": {
+      "location": {
+        "lat": -23.0864061,
+        "lng": -47.2114305
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -23.08509297010728,
+          "lng": -47.21010222010727
+        },
+        "southwest": {
+          "lat": -23.08779262989272,
+          "lng": -47.21280187989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "name": "OdontoCompany Indaiatuba",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 585,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118425798480621666643\">OdontoCompany Indaiatuba</a>"
+        ],
+        "photo_reference": "ATtYBwLrswKnJ0av9Fznon1jWocePxcg_KSeNPP3kbXddh3nt1iN4GrbokH51YMmLOTgQUQScd8hlj7c2J7L8xFIc0afrgc1iguO8lWi8RU8vj0IHZ4jPnSSx5joO8ap2oY88NoLE7d2k2R2G0PCpwQsRPLr_s3jKAzDd83_w9WyP-frHh66",
+        "width": 1040
+      }
+    ],
+    "place_id": "ChIJ7wVt-qi0yJQRcbX7UVc2jbs",
+    "plus_code": {
+      "compound_code": "WQ7Q+CC Centro, Indaiatuba - State of São Paulo",
+      "global_code": "588JWQ7Q+CC"
+    },
+    "rating": 4.6,
+    "reference": "ChIJ7wVt-qi0yJQRcbX7UVc2jbs",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 50
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Av. Ário Barnabé, 349 - Vila Pires da Cunha, Indaiatuba - SP, 13346-400, Brazil",
+    "geometry": {
+      "location": {
+        "lat": -23.119234,
+        "lng": -47.228005
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -23.11782207010728,
+          "lng": -47.22663477010727
+        },
+        "southwest": {
+          "lat": -23.12052172989272,
+          "lng": -47.22933442989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "name": "Belle Santé Address Dentistry",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1390,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117633048891009229667\">Belle Santé Morada Odontologia</a>"
+        ],
+        "photo_reference": "ATtYBwKDCx8DetIK5o0i71ZekdMWQQ1QpZSNeBkZ1qemI9-rGiCfrUAK841mq5l9zXJwrRy7E6IQNYWo1mlOz30M2biJ8S_qIQ6ML9uI-nFMys_PhIJHiJYXegBdOEFzeZpERvIm_ug_4n3sFM96wx6XgI8iY5xKC8G5I2gLTgazp1V0-rfE",
+        "width": 2000
+      }
+    ],
+    "place_id": "ChIJX3XHHpZMz5QR0rRuaLEWiis",
+    "plus_code": {
+      "compound_code": "VQJC+8Q Vila Pires da Cunha, Indaiatuba - State of São Paulo",
+      "global_code": "588JVQJC+8Q"
+    },
+    "rating": 5,
+    "reference": "ChIJX3XHHpZMz5QR0rRuaLEWiis",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "R. Antônio Angelino Rossi, 643 - Jardim Morada do Sol, Indaiatuba - SP, 13348-290, Brazil",
+    "geometry": {
+      "location": {
+        "lat": -23.1253189,
+        "lng": -47.2398007
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -23.12389507010728,
+          "lng": -47.23842747010727
+        },
+        "southwest": {
+          "lat": -23.12659472989272,
+          "lng": -47.24112712989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "name": "Dentistas",
+    "place_id": "ChIJuU4TdelMz5QRzUz9g_8o_qw",
+    "plus_code": {
+      "compound_code": "VQF6+V3 Jardim Morada do Sol, Indaiatuba - State of São Paulo",
+      "global_code": "588JVQF6+V3"
+    },
+    "rating": 0,
+    "reference": "ChIJuU4TdelMz5QRzUz9g_8o_qw",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "R. José Estanislau Ambiel, 989 - Jardim Morada do Sol, Indaiatuba - SP, 13348-324, Brazil",
+    "geometry": {
+      "location": {
+        "lat": -23.1252714,
+        "lng": -47.2382143
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -23.12392712010728,
+          "lng": -47.23684347010727
+        },
+        "southwest": {
+          "lat": -23.12662677989272,
+          "lng": -47.23954312989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "name": "Ortosol Odontologia Estética",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1152,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100758872087179185102\">A Google User</a>"
+        ],
+        "photo_reference": "ATtYBwJcVUqmy6BQu-XHLZoiqa9ETTMNM89yMWyARnzqCexfKj_P77PaC3uTeWU17rVpNbTrbrye09lAaCQdbvs-sgV-9wUgcHg7wwh0TzOe-WnxQM0qQIwBM6DqK13J4e6ptj2YtAhHnX1vcSsMEJJpVCS5F5x74Bb6nfVSHfftFtjKz4Gm",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJowNpmutMz5QRbtskZfpnArk",
+    "plus_code": {
+      "compound_code": "VQF6+VP Jardim Morada do Sol, Indaiatuba - State of São Paulo",
+      "global_code": "588JVQF6+VP"
+    },
+    "rating": 5,
+    "reference": "ChIJowNpmutMz5QRbtskZfpnArk",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "R. Serafim Gilberto Candello, 1274 - Jardim Morada do Sol, Indaiatuba - SP, 13348-336, Brazil",
+    "geometry": {
+      "location": {
+        "lat": -23.122348,
+        "lng": -47.2389483
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -23.12097687010728,
+          "lng": -47.23769337010727
+        },
+        "southwest": {
+          "lat": -23.12367652989272,
+          "lng": -47.24039302989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "name": "Consultorio Odontológico",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117600545636422687092\">A Google User</a>"
+        ],
+        "photo_reference": "ATtYBwLtqekNTqC0dWVTNDze7f0gNJoENsVjPDYqn37XEsYuR4M9qaCj7Hj1QkWgsj2Or5rF_yEjjqTygjyYL80bsyN9cc-kFaNRPrA_sdDNr-p2Hg1v8-LDyh0sbfgaC8WLH5rA1ZJX9hJCTfd1VVGCqZLvohtAj2FvskIiDAHg3U9l6EJV",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJy8udBsJMz5QRSndL4zRtNoo",
+    "plus_code": {
+      "compound_code": "VQH6+3C Jardim Morada do Sol, Indaiatuba - State of São Paulo",
+      "global_code": "588JVQH6+3C"
+    },
+    "rating": 5,
+    "reference": "ChIJy8udBsJMz5QRSndL4zRtNoo",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "R. Vinte e Quatro de Maio, 1474 - Centro, Indaiatuba - SP, 13330-060, Brazil",
+    "geometry": {
+      "location": {
+        "lat": -23.0870998,
+        "lng": -47.2103676
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -23.08570922010728,
+          "lng": -47.20899532010728
+        },
+        "southwest": {
+          "lat": -23.08840887989273,
+          "lng": -47.21169497989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "name": "Dentista Dr Jelson Freitas",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 266,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104953650660645971053\">consultorio odontologico</a>"
+        ],
+        "photo_reference": "ATtYBwJuXbZDjR7BFGldKxEZpCG8IMjxoLoHuGeJ0kN8D0EYt_DEMHt7TUSWFHrAUPQiQ7rZbF74sVIL_TlAiOQ3AgcwHjGyNWJTVYVcJQ_kKnYT_cdteEKQQVVRw8idUUGt3EDNR-96m40Mbx1ri87nQ0jqa9yPf8kNdTOgTURTFCk7cuuB",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJCTcMI6m0yJQRvU799UvF2k8",
+    "plus_code": {
+      "compound_code": "WQ7Q+5V Centro, Indaiatuba - State of São Paulo",
+      "global_code": "588JWQ7Q+5V"
+    },
+    "rating": 5,
+    "reference": "ChIJCTcMI6m0yJQRvU799UvF2k8",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Av. Ário Barnabé, 1197 - Jardim Morada do Sol, Indaiatuba - SP, 13348-500, Brazil",
+    "geometry": {
+      "location": {
+        "lat": -23.1171174,
+        "lng": -47.2359966
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -23.11571542010727,
+          "lng": -47.23462867010728
+        },
+        "southwest": {
+          "lat": -23.11841507989272,
+          "lng": -47.23732832989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "name": "Total Odontologia 19 99532-9632",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJQT301sBMz5QRwrCFhwtHDM0",
+    "plus_code": {
+      "compound_code": "VQM7+5J Jardim Morada do Sol, Indaiatuba - State of São Paulo",
+      "global_code": "588JVQM7+5J"
+    },
+    "rating": 0,
+    "reference": "ChIJQT301sBMz5QRwrCFhwtHDM0",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Av. Ário Barnabé, 493 - Jardim Sao Conrado, Indaiatuba - SP, 13346-400, Brazil",
+    "geometry": {
+      "location": {
+        "lat": -23.1188889,
+        "lng": -47.2292858
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -23.11747922010728,
+          "lng": -47.22791922010728
+        },
+        "southwest": {
+          "lat": -23.12017887989272,
+          "lng": -47.23061887989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "name": "Odonto Selfie",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2048,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102373786802085025443\">A Google User</a>"
+        ],
+        "photo_reference": "ATtYBwIS8493aSptwsFmugsxabCfLkAvaGlSQZJUBj0fkG-t4EHu0LgIc-3ZDetTplE_c6nC5AjsGOFm3QnQf4IGeFU1SmzYrqg6huac0q7qPAVcfMSt3SJGm5X9yheVEjPPe4K375QUB8zAEPCE3Wu70NUy7uRHwCzdxYyepogW5FY_ttTa",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJR066AEpNz5QRnxyFtZD6BOY",
+    "plus_code": {
+      "compound_code": "VQJC+C7 Jardim Sao Conrado, Indaiatuba - State of São Paulo",
+      "global_code": "588JVQJC+C7"
+    },
+    "rating": 4.8,
+    "reference": "ChIJR066AEpNz5QRnxyFtZD6BOY",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 17
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Av. Geraldo Hackmann, 152 - Nucleo Hab. Brg. Faria Lima, Indaiatuba - SP, 13345-400, Brazil",
+    "geometry": {
+      "location": {
+        "lat": -23.102968,
+        "lng": -47.2173139
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -23.10158367010728,
+          "lng": -47.21587247010727
+        },
+        "southwest": {
+          "lat": -23.10428332989272,
+          "lng": -47.21857212989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "name": "Coi Dentistas",
+    "opening_hours": {},
+    "place_id": "ChIJu29JG6lMz5QRJG8zLai47Ig",
+    "plus_code": {
+      "compound_code": "VQWM+R3 Nucleo Hab. Brg. Faria Lima, Indaiatuba - State of São Paulo",
+      "global_code": "588JVQWM+R3"
+    },
+    "rating": 0,
+    "reference": "ChIJu29JG6lMz5QRJG8zLai47Ig",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "R. Pedro de Toledo, 84 - Jardim Dom Bosco, Indaiatuba - SP, 13330-090, Brazil",
+    "geometry": {
+      "location": {
+        "lat": -23.0908214,
+        "lng": -47.2162655
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -23.08944392010728,
+          "lng": -47.21498762010728
+        },
+        "southwest": {
+          "lat": -23.09214357989272,
+          "lng": -47.21768727989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "name": "OE Odontologia Especializada",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115829145324070327850\">Priscilla Fernandes</a>"
+        ],
+        "photo_reference": "ATtYBwLj5hmh7-YvANhIRRS25u1K2Mag7lukKyNZbWzUtLnGvZg_ve24ZzUABETpW4HEvFrexdM8wsq8l5Rjgav49yFyUjjkmPcMbc4mag63MFpnXDejMGNTD_Qzz267OJG4Gc5dlY0Xap-4Pj1aT7dxI1R-tYHT_jZk7gOa0FHgJZpZvH55",
+        "width": 581
+      }
+    ],
+    "place_id": "ChIJf1kbeVazyJQRbsVdnhkXx4Q",
+    "plus_code": {
+      "compound_code": "WQ5M+MF Jardim Dom Bosco, Indaiatuba - State of São Paulo",
+      "global_code": "588JWQ5M+MF"
+    },
+    "rating": 4.5,
+    "reference": "ChIJf1kbeVazyJQRbsVdnhkXx4Q",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Av. Ário Barnabé, 603 - Jardim Morada do Sol, Indaiatuba - SP, 13346-400, Brazil",
+    "geometry": {
+      "location": {
+        "lat": -23.1185871,
+        "lng": -47.2303185
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -23.11720467010728,
+          "lng": -47.22895877010727
+        },
+        "southwest": {
+          "lat": -23.11990432989272,
+          "lng": -47.23165842989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "name": "Dra Kelli M. Braga",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 300,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114036921405531657635\">A Google User</a>"
+        ],
+        "photo_reference": "ATtYBwLZ4-1qQ9v6m6CBlaaWzCToyKhT6IdF4oPzSeC2Tik_RK86CflUNIiQsHljJHnLOs2lA7g32o3OuVz4o2ehtuMNqqqzyltsBtY9KRr1BCJkvz27enmTklVaSaGDODVjZhdx4IQvquqx-v-Kh01nGCbh1vuBD4IZ21NljL9jIGtCLiAo",
+        "width": 537
+      }
+    ],
+    "place_id": "ChIJu1GiBb5Mz5QR29YTn1_Jc5k",
+    "plus_code": {
+      "compound_code": "VQJ9+HV Jardim Morada do Sol, Indaiatuba - State of São Paulo",
+      "global_code": "588JVQJ9+HV"
+    },
+    "rating": 4.7,
+    "reference": "ChIJu1GiBb5Mz5QR29YTn1_Jc5k",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 12
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Av. Ário Barnabé, 1492 - Jardim Morada do Sol, Indaiatuba - SP, 13348-500, Brazil",
+    "geometry": {
+      "location": {
+        "lat": -23.115976,
+        "lng": -47.238738
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -23.11470012010728,
+          "lng": -47.23741132010728
+        },
+        "southwest": {
+          "lat": -23.11739977989273,
+          "lng": -47.24011097989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "name": "Odontomaxxis",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 348,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107336064706303278001\">A Google User</a>"
+        ],
+        "photo_reference": "ATtYBwJSOMEtxnQkZdWkXlW3A0isYVqCg5mYSWBbdJkGncUf69dCNvU9Sev1CyH6wXAexpbPATKPXiRpJRorRQ8Am7v6Gjkwk0ULtRTPeZNApkC6hoGuW7FU3BjU1TaEvYx3ApuZhTy-2DWERf5I9u2RYdkq_9TWfKT6-H15gWmK-JlHpKSP",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJ_RDincZMz5QR1fIyAR-gX-c",
+    "plus_code": {
+      "compound_code": "VQM6+JG Jardim Morada do Sol, Indaiatuba - State of São Paulo",
+      "global_code": "588JVQM6+JG"
+    },
+    "rating": 5,
+    "reference": "ChIJ_RDincZMz5QR1fIyAR-gX-c",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "R. Pedro de Toledo, 472 - Centro, Indaiatuba - SP, 13330-090, Brazil",
+    "geometry": {
+      "location": {
+        "lat": -23.087661,
+        "lng": -47.2146604
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -23.08628962010728,
+          "lng": -47.21335007010729
+        },
+        "southwest": {
+          "lat": -23.08898927989272,
+          "lng": -47.21604972989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "name": "Odontoclinic Indaiatuba",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4618,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108137565611986460442\">Odontoclinic Indaiatuba</a>"
+        ],
+        "photo_reference": "ATtYBwJBvJ6cE3DHMD4Y2MgYGxdOGh0GlfKOONxEkElyLgnuzWwBtXlJwterrsQeMEJC4xvoV2PRPDOT2JZbTlZEmYB2f-EKGkQrifpiYxH-c-IjSadFI74ikmdI878eaOmatvbOxurHbSNfY9zfEl2OTQlQ3qvSSETw7O-49X2NLdNYo8Ti",
+        "width": 3464
+      }
+    ],
+    "place_id": "ChIJqeMR0VezyJQRas5CdNCpGvw",
+    "plus_code": {
+      "compound_code": "WQ6P+W4 Centro, Indaiatuba - State of São Paulo",
+      "global_code": "588JWQ6P+W4"
+    },
+    "rating": 4.8,
+    "reference": "ChIJqeMR0VezyJQRas5CdNCpGvw",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 17
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "R. João Martini, 950 - Jardim Morada do Sol, Indaiatuba - SP, 13348-354, Brazil",
+    "geometry": {
+      "location": {
+        "lat": -23.122757,
+        "lng": -47.2427448
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -23.12139247010727,
+          "lng": -47.24145077010728
+        },
+        "southwest": {
+          "lat": -23.12409212989272,
+          "lng": -47.24415042989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "name": "OdontoCare",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJG4obv8JMz5QR789CWqA_Glg",
+    "plus_code": {
+      "compound_code": "VQG4+VW Jardim Morada do Sol, Indaiatuba - State of São Paulo",
+      "global_code": "588JVQG4+VW"
+    },
+    "rating": 5,
+    "reference": "ChIJG4obv8JMz5QR789CWqA_Glg",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "R. João Martini, 2318 - Jardim Morada do Sol, Indaiatuba - SP, 13348-350, Brazil",
+    "geometry": {
+      "location": {
+        "lat": -23.1110141,
+        "lng": -47.2391374
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -23.10964352010728,
+          "lng": -47.23787322010728
+        },
+        "southwest": {
+          "lat": -23.11234317989272,
+          "lng": -47.24057287989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "name": "Clínica Odontológica Dra.Camila Bitencourt",
+    "photos": [
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100792299492504456296\">Rodolfo bego</a>"
+        ],
+        "photo_reference": "ATtYBwKoIyrUMXMVJjALfiC7rmdZhIqFoDHlVczf7k19B2RE0OyPUjyeY_mgtchbCjwVfiNizvChB99lWASCIbdGg5YsTpOAMBrd9wO6gs_3g_A1bRclTrSjEjWHnJ6U7UWZdzwwIQd342F-naiz52-lxfPpqhERuM-KYWLOPzFY3DEnZrMo",
+        "width": 2160
+      }
+    ],
+    "place_id": "ChIJ0SZCL89Mz5QRe7-kpeRIYbs",
+    "plus_code": {
+      "compound_code": "VQQ6+H8 Jardim Morada do Sol, Indaiatuba - State of São Paulo",
+      "global_code": "588JVQQ6+H8"
+    },
+    "rating": 5,
+    "reference": "ChIJ0SZCL89Mz5QRe7-kpeRIYbs",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Av. Ário Barnabé, 1302 - Jardim Morada do Sol, Indaiatuba - SP, 13348-503, Brazil",
+    "geometry": {
+      "location": {
+        "lat": -23.1165044,
+        "lng": -47.2368357
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -23.11521897010727,
+          "lng": -47.23550592010728
+        },
+        "southwest": {
+          "lat": -23.11791862989272,
+          "lng": -47.23820557989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "name": "Dra Gisely Marla Vaneli",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ9acxzsZMz5QRO2tSlOCXbIs",
+    "plus_code": {
+      "compound_code": "VQM7+97 Jardim Morada do Sol, Indaiatuba - State of São Paulo",
+      "global_code": "588JVQM7+97"
+    },
+    "rating": 0,
+    "reference": "ChIJ9acxzsZMz5QRO2tSlOCXbIs",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "R. Ângelo Calonga, 162 - Jardim California, Indaiatuba - SP, 13344-411, Brazil",
+    "geometry": {
+      "location": {
+        "lat": -23.1075869,
+        "lng": -47.21730640000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -23.10622777010728,
+          "lng": -47.21594117010727
+        },
+        "southwest": {
+          "lat": -23.10892742989272,
+          "lng": -47.21864082989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "name": "Bittencourt Odontologia",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113329785043802380505\">A Google User</a>"
+        ],
+        "photo_reference": "ATtYBwIv6ezlRGeKNUfdBJwcnpYOpVGkk7wDg6kfFpTRTegZCuBus90JkoLnFyIkUSrireoxaLZGCbAjmjl1TB-UYBZN3kj_uVOayRsswpGgR-CILgG-tRPRP-JTO88ihb44o0w7DSAfa14-3fYiVfjOZpra6UbMdFCmqLgP_1xEXFL95OMb",
+        "width": 4928
+      }
+    ],
+    "place_id": "ChIJEf8sNadMz5QR16UbzovXgR4",
+    "plus_code": {
+      "compound_code": "VQRM+X3 Jardim California, Indaiatuba - State of São Paulo",
+      "global_code": "588JVQRM+X3"
+    },
+    "rating": 4.1,
+    "reference": "ChIJEf8sNadMz5QR16UbzovXgR4",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 25
+  }
+]
